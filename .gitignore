@@ -1,0 +1,33 @@
+# Local vendor inputs and generated build environments
+vendor/
+runtime/
+tools/dk6/
+tools/arm-gcc-*/
+docs/vendor/
+firmware/work/
+firmware/releases/
+releases/
+verification/
+data/
+config/
+*.lnk
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+*.spec
+.env
+
+# Preserved local migration history; publish the active application source
+app/revisions/v1/
+app/revisions/v2/
+docs/archive/
+tests/archive/
+tools/prepare_workspace_v1.py
+tools/generate_application_v1.py
+tools/gui_migration_v1.py
+tools/refine_application_v2.py
+tools/refine_application_v3.py
+tools/finalize_active_files_v1.py
+tools/package_desktop_v1.py
+tools/verify_ui_v1.py

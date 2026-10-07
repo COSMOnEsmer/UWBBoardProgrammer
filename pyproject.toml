@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["app/revisions/v3"]
+norecursedirs = ["archive", "verification", "vendor", "runtime"]
