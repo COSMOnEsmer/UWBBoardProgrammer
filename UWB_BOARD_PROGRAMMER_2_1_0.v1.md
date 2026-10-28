@@ -37,7 +37,7 @@ RF synchronization, measured 3D accuracy, battery/Power Bank operation and
 production RTLS still require physical acceptance. Software fixtures do not
 establish those hardware results.
 
-Run integrated tests with `python -m pytest -c tests/integrated_v1/pytest.ini`.
+Run integrated tests with `python -m pytest -c pytest.integrated.v1.ini`.
 That configuration selects the v5 package. The original root test configuration
 continues to select v4; the integrated-only modules skip in that environment.
 Export a local laptop ZIP with `tools/export_integrated_portable_v1.py` after
