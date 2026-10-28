@@ -1,0 +1,5 @@
+*.zip binary
+*.exe binary
+*.json text eol=lf
+*.cs text eol=lf
+*.manifest text eol=lf
