@@ -1,0 +1,24 @@
+{
+  "version": "2.8.0",
+  "tests_passed": 78,
+  "registration_tests": 20,
+  "portable_checks": 9,
+  "frozen_coordinate_modules": true,
+  "payload_bytes": 97645200,
+  "payload_files": 599,
+  "payload_sha256": "1afd965bf7798233ac3ccfdbce24a0396f4b31e78aed581c569b1ea11a117411",
+  "real_rtls_verification": {
+    "version": "2.8.0",
+    "authenticated": true,
+    "scope_and_geometry_verified": true,
+    "heartbeat_ack_ok": 1,
+    "ack_errors": 0,
+    "positions_published": 0,
+    "raw_measurements_published": 0,
+    "hardware_access": false,
+    "server_configuration_modified": false
+  },
+  "source_geometry_retained": true,
+  "personal_profile_in_payload": false,
+  "credentials_in_payload": false
+}
