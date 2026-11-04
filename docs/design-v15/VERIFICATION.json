@@ -1,0 +1,31 @@
+{
+  "version": "2.7.0",
+  "software_tests_passed": 58,
+  "portable_checks_passed": 9,
+  "native_qt_captures": 36,
+  "languages": [
+    "en",
+    "th"
+  ],
+  "viewport_sizes": [
+    [
+      1366,
+      768
+    ],
+    [
+      1568,
+      1003
+    ],
+    [
+      1920,
+      1080
+    ]
+  ],
+  "payload_sha256": "6e033677cc335004e8f8d7a052974af25ac1561a9f3fab8e13747c1a698d6a87",
+  "payload_bytes": 97302854,
+  "payload_files": 591,
+  "firmware_changed": false,
+  "hardware_flash_attempted": false,
+  "automatic_acquisition": false,
+  "automatic_cloud": false
+}
