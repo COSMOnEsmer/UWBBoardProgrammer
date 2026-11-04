@@ -1,0 +1,355 @@
+{
+  "name": "TechnoPark / Ground Floor / A4 XY origin",
+  "site_id": "9e325ceb-68cf-4f88-a178-11c9c1c36d17",
+  "floor_id": "7f2b1ff3-f5df-435e-ba46-411782c822c4",
+  "anchors": [
+    {
+      "id": "TP-A1",
+      "mac": "0200000000000001",
+      "role": "master",
+      "port": "COM7",
+      "position": [
+        0.688,
+        0.878,
+        0.891
+      ],
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "rx_bias_m": 0.0,
+      "aoa_verified": false
+    },
+    {
+      "id": "TP-A2",
+      "mac": "0200000000000002",
+      "role": "slave",
+      "port": "COM7",
+      "position": [
+        2.013,
+        0.895,
+        1.891
+      ],
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "rx_bias_m": 0.0,
+      "aoa_verified": false
+    },
+    {
+      "id": "TP-A3",
+      "mac": "0200000000000003",
+      "role": "slave",
+      "port": "COM7",
+      "position": [
+        2.45,
+        0.037,
+        0.779
+      ],
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "rx_bias_m": 0.0,
+      "aoa_verified": false
+    },
+    {
+      "id": "TP-A4",
+      "mac": "0200000000000004",
+      "role": "slave",
+      "port": "COM10",
+      "position": [
+        0.0,
+        0.0,
+        0.518
+      ],
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "rx_bias_m": 0.0,
+      "aoa_verified": false
+    }
+  ],
+  "tag_id": "TP-T1",
+  "tag_mac": "0200000000000101",
+  "tag_port": "COM9",
+  "baud": 3000000,
+  "blink_interval_ms": 1000,
+  "bounds": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      4.0,
+      4.0,
+      2.0
+    ]
+  ],
+  "aoa_sigma_deg": 3.0,
+  "tdoa_sigma_m": 0.3,
+  "min_fom": 50,
+  "max_z_uncertainty_m": 1.0,
+  "max_horizontal_uncertainty_m": 2.0,
+  "mode": "tdoa_4",
+  "transport": "ble",
+  "ble_scan_mode": "passive",
+  "ble_scan_seconds": 5,
+  "survey_verified": true,
+  "schema_version": 2,
+  "coordinate_frame": "floor",
+  "floor_verified": true,
+  "floor_geometry": {
+    "origin_x": 0.0,
+    "origin_y": 0.0,
+    "length": 4,
+    "width": 4,
+    "height": 2,
+    "elevation": 0.0,
+    "level_index": 0,
+    "meters_per_pixel": 0.01,
+    "footprint": null,
+    "name": "Ground Floor",
+    "id": "7f2b1ff3-f5df-435e-ba46-411782c822c4",
+    "config_version": "2026-11-04T06:21:01.548Z"
+  },
+  "alignment": {
+    "schema": 1,
+    "site_id": "9e325ceb-68cf-4f88-a178-11c9c1c36d17",
+    "floor_id": "7f2b1ff3-f5df-435e-ba46-411782c822c4",
+    "yaw_deg": 0.0,
+    "translation_m": [
+      1.132,
+      0.426,
+      0.0
+    ],
+    "scale": 1.0,
+    "created_utc": "2026-11-04T06:36:14.927Z",
+    "source_profile": {
+      "name": "KMUTNB - Murata hardware",
+      "site_id": "9e325ceb-68cf-4f88-a178-11c9c1c36d17",
+      "floor_id": "7f2b1ff3-f5df-435e-ba46-411782c822c4",
+      "anchors": [
+        {
+          "id": "TP-A1",
+          "mac": "0200000000000001",
+          "role": "master",
+          "port": "COM7",
+          "position": [
+            -0.444,
+            0.452,
+            0.891
+          ],
+          "yaw": 0.0,
+          "pitch": 0.0,
+          "roll": 0.0,
+          "rx_bias_m": 0.0,
+          "aoa_verified": false
+        },
+        {
+          "id": "TP-A2",
+          "mac": "0200000000000002",
+          "role": "slave",
+          "port": "COM7",
+          "position": [
+            0.881,
+            0.469,
+            1.891
+          ],
+          "yaw": 0.0,
+          "pitch": 0.0,
+          "roll": 0.0,
+          "rx_bias_m": 0.0,
+          "aoa_verified": false
+        },
+        {
+          "id": "TP-A3",
+          "mac": "0200000000000003",
+          "role": "slave",
+          "port": "COM7",
+          "position": [
+            1.318,
+            -0.389,
+            0.779
+          ],
+          "yaw": 0.0,
+          "pitch": 0.0,
+          "roll": 0.0,
+          "rx_bias_m": 0.0,
+          "aoa_verified": false
+        },
+        {
+          "id": "TP-A4",
+          "mac": "0200000000000004",
+          "role": "slave",
+          "port": "COM10",
+          "position": [
+            -1.132,
+            -0.426,
+            0.518
+          ],
+          "yaw": 0.0,
+          "pitch": 0.0,
+          "roll": 0.0,
+          "rx_bias_m": 0.0,
+          "aoa_verified": false
+        }
+      ],
+      "tag_id": "TP-T1",
+      "tag_mac": "0200000000000101",
+      "tag_port": "COM9",
+      "baud": 3000000,
+      "blink_interval_ms": 1000,
+      "bounds": [
+        [
+          -2,
+          -2,
+          0
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ],
+      "aoa_sigma_deg": 3.0,
+      "tdoa_sigma_m": 0.3,
+      "min_fom": 50,
+      "max_z_uncertainty_m": 1.0,
+      "max_horizontal_uncertainty_m": 2.0,
+      "mode": "tdoa_4",
+      "transport": "ble",
+      "ble_scan_mode": "passive",
+      "ble_scan_seconds": 5,
+      "survey_verified": true,
+      "schema_version": 2,
+      "coordinate_frame": "survey",
+      "floor_verified": false,
+      "floor_geometry": {},
+      "alignment": {},
+      "survey_archive": {}
+    },
+    "references": [],
+    "source_bounds_in_floor": [
+      [
+        -0.8680000000000001,
+        -1.574,
+        0.0
+      ],
+      [
+        3.1319999999999997,
+        2.426,
+        2.0
+      ]
+    ],
+    "physical_accuracy_validated": false,
+    "commissioning": {
+      "reference_anchor": "TP-A4",
+      "server_geometry_compared": true,
+      "rf_accuracy_validated": false
+    }
+  },
+  "survey_archive": {
+    "name": "KMUTNB - Murata hardware",
+    "site_id": "9e325ceb-68cf-4f88-a178-11c9c1c36d17",
+    "floor_id": "7f2b1ff3-f5df-435e-ba46-411782c822c4",
+    "anchors": [
+      {
+        "id": "TP-A1",
+        "mac": "0200000000000001",
+        "role": "master",
+        "port": "COM7",
+        "position": [
+          -0.444,
+          0.452,
+          0.891
+        ],
+        "yaw": 0.0,
+        "pitch": 0.0,
+        "roll": 0.0,
+        "rx_bias_m": 0.0,
+        "aoa_verified": false
+      },
+      {
+        "id": "TP-A2",
+        "mac": "0200000000000002",
+        "role": "slave",
+        "port": "COM7",
+        "position": [
+          0.881,
+          0.469,
+          1.891
+        ],
+        "yaw": 0.0,
+        "pitch": 0.0,
+        "roll": 0.0,
+        "rx_bias_m": 0.0,
+        "aoa_verified": false
+      },
+      {
+        "id": "TP-A3",
+        "mac": "0200000000000003",
+        "role": "slave",
+        "port": "COM7",
+        "position": [
+          1.318,
+          -0.389,
+          0.779
+        ],
+        "yaw": 0.0,
+        "pitch": 0.0,
+        "roll": 0.0,
+        "rx_bias_m": 0.0,
+        "aoa_verified": false
+      },
+      {
+        "id": "TP-A4",
+        "mac": "0200000000000004",
+        "role": "slave",
+        "port": "COM10",
+        "position": [
+          -1.132,
+          -0.426,
+          0.518
+        ],
+        "yaw": 0.0,
+        "pitch": 0.0,
+        "roll": 0.0,
+        "rx_bias_m": 0.0,
+        "aoa_verified": false
+      }
+    ],
+    "tag_id": "TP-T1",
+    "tag_mac": "0200000000000101",
+    "tag_port": "COM9",
+    "baud": 3000000,
+    "blink_interval_ms": 1000,
+    "bounds": [
+      [
+        -2,
+        -2,
+        0
+      ],
+      [
+        2,
+        2,
+        2
+      ]
+    ],
+    "aoa_sigma_deg": 3.0,
+    "tdoa_sigma_m": 0.3,
+    "min_fom": 50,
+    "max_z_uncertainty_m": 1.0,
+    "max_horizontal_uncertainty_m": 2.0,
+    "mode": "tdoa_4",
+    "transport": "ble",
+    "ble_scan_mode": "passive",
+    "ble_scan_seconds": 5,
+    "survey_verified": true,
+    "schema_version": 2,
+    "coordinate_frame": "survey",
+    "floor_verified": false,
+    "floor_geometry": {},
+    "alignment": {},
+    "survey_archive": {}
+  }
+}
