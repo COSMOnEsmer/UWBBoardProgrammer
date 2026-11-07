@@ -1,5 +1,8 @@
 # UWB Board Programmer
 
+Current release: **2.8.3**. Run `START_HERE_2_8_3.cmd` for automatic BLE recovery
+and complete Windows GATT cleanup. See [release notes](README_2_8_3.md).
+
 <img src="resources/branding/logo-v1.png" width="104" alt="UWB Board Programmer logo">
 
 A Windows desktop workspace for preparing Murata Type2BP / Type2DK EVKs, acquiring real UWB RF timestamps, computing 3D positions on the PC and forwarding accepted live positions to the RTLS Platform.
@@ -26,8 +29,8 @@ Double-click **UWB Board Programmer** on the desktop, or `Start_UWB_Board_Progra
 
 ## Source and local data
 
-The active source is `app/revisions/v3`. Earlier revisions remain available for review. The original project folder and RTLSSimulator are preserved. Profiles, language choices, recordings, flash logs and credentials are stored locally in new files. Gateway tokens use Windows DPAPI.
+The active source is `app/revisions/v19`. Earlier revisions remain available for review. The original project folder and RTLSSimulator are preserved. Profiles, language choices, recordings, flash logs and credentials are stored locally in new files. Gateway tokens use Windows DPAPI.
 
-This repository contains application source, custom host firmware source, tests, documentation and the original editable vector logo. Vendor SDKs, programmer binaries, compiler, generated firmware, executable packages and user data are excluded from Git. Supply the locally licensed vendor inputs described in the build guide to rebuild firmware.
+This repository contains application source, custom host firmware source, tests, documentation and the original editable vector logo. The verified Windows payload is under `deployment/windows-x64`. Raw vendor SDKs, compilers, build environments and user data are excluded from Git. Supply the locally licensed vendor inputs described in the build guide to rebuild firmware.
 
 **Validation:** software tests and compilation are separate from hardware validation. Flashing the EVKs, RF timing/AoA axes, battery operation and live positioning on RTLS still require tests with real boards. No synthetic or replay positions are published by the normal application.

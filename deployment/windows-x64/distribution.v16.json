@@ -1,0 +1,3045 @@
+{
+  "schema": 1,
+  "version": "2.8.3",
+  "archive": "deployment/windows-x64/2.8.3-final/UWB_Board_Programmer_2_8_3_Windows_x64.zip",
+  "archive_root": "UWB_Board_Programmer_2_8_3",
+  "bytes": 97127825,
+  "sha256": "b816778761e2461e86ae0d85b5d565c1af6e6db73fc77071a0f6ee3e26c9dbc0",
+  "executable": "UWB_Board_Programmer_2_8_3.exe",
+  "credentials_included": false,
+  "profiles_included": false,
+  "recordings_included": false,
+  "external_python_required": false,
+  "files": [
+    {
+      "path": "_internal/_asyncio.pyd",
+      "bytes": 72160,
+      "sha256": "adaaf0c703641f6dbed30d101a5e23c17cc9454c36303394b9e28a52ea457471"
+    },
+    {
+      "path": "_internal/_bz2.pyd",
+      "bytes": 85984,
+      "sha256": "965f199679afa9b31d537d98c3ca8403afd6b9e58e1a463ae47697ae4bf12771"
+    },
+    {
+      "path": "_internal/_ctypes.pyd",
+      "bytes": 133088,
+      "sha256": "697d05cac7c167c00ccf22ea4fdbc7a8db93ab9c6421061191558e42478068c5"
+    },
+    {
+      "path": "_internal/_decimal.pyd",
+      "bytes": 280032,
+      "sha256": "90045140e45edcfe4f4859b3190184faff1249220011330a9d01319745766607"
+    },
+    {
+      "path": "_internal/_hashlib.pyd",
+      "bytes": 69976,
+      "sha256": "1430e4a2ed19eda840668a292c39ff44488b598f53e903a61739a86b779ecbfe"
+    },
+    {
+      "path": "_internal/_lzma.pyd",
+      "bytes": 160088,
+      "sha256": "b78f5a8476139ff04731046459efd047bb8f52dc92c5b2082eabf2929c0ca02d"
+    },
+    {
+      "path": "_internal/_multiprocessing.pyd",
+      "bytes": 37344,
+      "sha256": "7b21c5b0ebee82b0d85724f245857d65e23f82c6aaf392efcd4f800462025d92"
+    },
+    {
+      "path": "_internal/_overlapped.pyd",
+      "bytes": 57680,
+      "sha256": "fae5e0e822434da7b1707b9ae4c77b8fa7d1d7b810e7e2f5cacf04449c714086"
+    },
+    {
+      "path": "_internal/_queue.pyd",
+      "bytes": 34272,
+      "sha256": "08050f94efe7bdd9d7cbe85b1196de391cac1b30f4a4918610cb174ae529a5db"
+    },
+    {
+      "path": "_internal/_socket.pyd",
+      "bytes": 86872,
+      "sha256": "c63e8e6a369cbe86e57c9823fb48bc5d4e7bb18455b9b001986b4768c49007da"
+    },
+    {
+      "path": "_internal/_ssl.pyd",
+      "bytes": 181456,
+      "sha256": "11572f6eb63e43cdc2908812506ffcdab21be2be5931f1e38d856c15f5a79e6c"
+    },
+    {
+      "path": "_internal/_uuid.pyd",
+      "bytes": 27856,
+      "sha256": "6a3e6d89e71a803609e6e765a592011427a5b6e7a4766bbca7790b601bb66dbe"
+    },
+    {
+      "path": "_internal/_wmi.pyd",
+      "bytes": 40144,
+      "sha256": "a7cc096244a497219269a3ee1cf2526a2b613d73fa566749f8f2408f5f4117d4"
+    },
+    {
+      "path": "_internal/base_library.zip",
+      "bytes": 1401781,
+      "sha256": "6927386926b7d433d933f68c0f95a4cbf205e997dc489f2b38490fa5e9ccb75d"
+    },
+    {
+      "path": "_internal/bleak/__init__.py",
+      "bytes": 37986,
+      "sha256": "784708d0183b06c1c0291bc371e1ab7e94628053b75a5fb9291d4e51649feb1d"
+    },
+    {
+      "path": "_internal/bleak/_compat.py",
+      "bytes": 988,
+      "sha256": "55dd53a48954225837dce02c2635b2d47f9235962b7fb3e48cf236205a9f23ad"
+    },
+    {
+      "path": "_internal/bleak/args/__init__.py",
+      "bytes": 594,
+      "sha256": "07ad1fc715c587fd45d2de7a0509748b6ad85b689068c84c5a4ec23c40061b8b"
+    },
+    {
+      "path": "_internal/bleak/args/bluez.py",
+      "bytes": 4211,
+      "sha256": "e96f990b10d98faef95050ea8ee952a9c30c89becca514f2478a1f6639ddfa11"
+    },
+    {
+      "path": "_internal/bleak/args/corebluetooth.py",
+      "bytes": 1226,
+      "sha256": "1d4970197b70d8ce85fe61a3d3ba1b625c1400b9d6a91ee8f0198358acee2ae9"
+    },
+    {
+      "path": "_internal/bleak/args/winrt.py",
+      "bytes": 974,
+      "sha256": "44f766f08df5e9214a6e47fff30fc549beee4cab83e705c72c67ba6dc8a2f7b9"
+    },
+    {
+      "path": "_internal/bleak/assigned_numbers.py",
+      "bytes": 2504,
+      "sha256": "8c2dee8a11c6be8cc6982748677e33c24fa3783c988fae6c863f11bed23e959c"
+    },
+    {
+      "path": "_internal/bleak/backends/__init__.py",
+      "bytes": 1798,
+      "sha256": "3d24ef323c93546ce4f769adc555b943bc2529cbe870bf692b8cbcdf879e2bff"
+    },
+    {
+      "path": "_internal/bleak/backends/_manufacturers.py",
+      "bytes": 67669,
+      "sha256": "3630aa348ed20ad4b335fe4e98688533b6b2abdb7fe5e28d79c327c85e247a15"
+    },
+    {
+      "path": "_internal/bleak/backends/_utils.py",
+      "bytes": 1047,
+      "sha256": "2a459b90b6ce85ac1a43ede229c9af2557a7d8076de10c6cb5cb2f13497e9882"
+    },
+    {
+      "path": "_internal/bleak/backends/bluezdbus/__init__.py",
+      "bytes": 21,
+      "sha256": "8ac605e5561d248f445140fd67401b437583bf8201b9a2c1bf67a95760d2f053"
+    },
+    {
+      "path": "_internal/bleak/backends/bluezdbus/advertisement_monitor.py",
+      "bytes": 3974,
+      "sha256": "85fc0753303c90d0aff4ec94252014276994d0a6b2776ca995f84b54bda279fe"
+    },
+    {
+      "path": "_internal/bleak/backends/bluezdbus/client.py",
+      "bytes": 39505,
+      "sha256": "4b73a0435214dfbb5454bdc6a2b53adc43603e4f2e898fd38e2b97f74e636114"
+    },
+    {
+      "path": "_internal/bleak/backends/bluezdbus/defs.py",
+      "bytes": 4373,
+      "sha256": "3b03dfcf4665331eef05623ef2dff5b5fbeabb4e4f1bc760506fdcd8932d5d26"
+    },
+    {
+      "path": "_internal/bleak/backends/bluezdbus/manager.py",
+      "bytes": 43968,
+      "sha256": "a6f4a97cb8ba8c6149b3f1072fbab49f6ba40305613c1f5ce8041d9727d36b95"
+    },
+    {
+      "path": "_internal/bleak/backends/bluezdbus/scanner.py",
+      "bytes": 8234,
+      "sha256": "bb7349690591050a985915ebfcf7bc96efcba044dd9b54743a1d8c19d45fcf3a"
+    },
+    {
+      "path": "_internal/bleak/backends/bluezdbus/signals.py",
+      "bytes": 6252,
+      "sha256": "da238f541b47490048002a86842e6ff0193fa058243d4b91ea477ce39b08336c"
+    },
+    {
+      "path": "_internal/bleak/backends/bluezdbus/utils.py",
+      "bytes": 4933,
+      "sha256": "799370f062b95a53156c627735d9684a00b7b70a65e72e98ed52f5780f907cc2"
+    },
+    {
+      "path": "_internal/bleak/backends/bluezdbus/version.py",
+      "bytes": 1957,
+      "sha256": "1906f0a583017eff0b086a448f29d4caf935b08b9d71e2f3fc536055fc6b1382"
+    },
+    {
+      "path": "_internal/bleak/backends/characteristic.py",
+      "bytes": 5112,
+      "sha256": "8e15649bf09edd111f98a72302b0c750e4dd5b17c0ba07d2af411c658e8100b7"
+    },
+    {
+      "path": "_internal/bleak/backends/client.py",
+      "bytes": 8442,
+      "sha256": "ff0485eb50707cc58ed24ce07108e12c18a7c5928ad5f6598b2c97d8b8d3ac61"
+    },
+    {
+      "path": "_internal/bleak/backends/corebluetooth/__init__.py",
+      "bytes": 284,
+      "sha256": "7b787b207fb2aca8d3bd3e16a0ada0f80ceb7b09b5f11834967e95b2667785b5"
+    },
+    {
+      "path": "_internal/bleak/backends/corebluetooth/CentralManagerDelegate.py",
+      "bytes": 14226,
+      "sha256": "dd8bdb1cd4378d527826a5492bbba35b2d99b113b0067a5ac138d27f5b597c93"
+    },
+    {
+      "path": "_internal/bleak/backends/corebluetooth/client.py",
+      "bytes": 14472,
+      "sha256": "1c8725b64bae8eb57b5f4dbb033bb3516a96709c4061fe85fd0c39b7c929ba5f"
+    },
+    {
+      "path": "_internal/bleak/backends/corebluetooth/PeripheralDelegate.py",
+      "bytes": 24743,
+      "sha256": "29d719d8a6d29a226f50b985a9da53d5f659787013cf3e53eeb9e81c0f249f47"
+    },
+    {
+      "path": "_internal/bleak/backends/corebluetooth/scanner.py",
+      "bytes": 6554,
+      "sha256": "b5a3001348760f37b2a540bb1c97a18058395cd7e1a3a46a8f2bc2510614fac2"
+    },
+    {
+      "path": "_internal/bleak/backends/corebluetooth/utils.py",
+      "bytes": 3602,
+      "sha256": "121b4928c6cbbc17c13bfc957581783d9e0437c76b0692999737f7f21de2566f"
+    },
+    {
+      "path": "_internal/bleak/backends/descriptor.py",
+      "bytes": 4501,
+      "sha256": "671494df473b68dfcde8177fbd58c5f4e9a60ef0ec45d43e904383813347b142"
+    },
+    {
+      "path": "_internal/bleak/backends/device.py",
+      "bytes": 1230,
+      "sha256": "8a9dec7d86a9225c3097655c483f05e25daff565793c1120da1812aa4d6b7b76"
+    },
+    {
+      "path": "_internal/bleak/backends/p4android/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/bleak/backends/p4android/client.py",
+      "bytes": 17814,
+      "sha256": "58281899dc0e3d218d78a2455c7db58fbb5592ba0843995195ef1c5ed32ba100"
+    },
+    {
+      "path": "_internal/bleak/backends/p4android/defs.py",
+      "bytes": 3283,
+      "sha256": "a4ee20a53c7cb6eda7ee45e0579cc35b0776ebf1e1fa6c8f032ef74d842c4bee"
+    },
+    {
+      "path": "_internal/bleak/backends/p4android/java/com/github/hbldh/bleak/PythonBluetoothGattCallback.java",
+      "bytes": 2897,
+      "sha256": "d9b64f18c401dc466deee5b6115ed24f6115c2d5a70dad388933ad3961ee5aa7"
+    },
+    {
+      "path": "_internal/bleak/backends/p4android/java/com/github/hbldh/bleak/PythonScanCallback.java",
+      "bytes": 909,
+      "sha256": "bed8827920384a7f12723a838828171b6d6fd400d00fc4847a445d250dd0001f"
+    },
+    {
+      "path": "_internal/bleak/backends/p4android/recipes/bleak/__init__.py",
+      "bytes": 2022,
+      "sha256": "a674faa7120bceb208fdc97cb0014837efe2b7874f45b5db5b999fb31e2ca2d0"
+    },
+    {
+      "path": "_internal/bleak/backends/p4android/recipes/bleak/fix_setup.py",
+      "bytes": 244,
+      "sha256": "28c7d586be149bdd5a2b10406315c819c8c7f7c0a24c55c1449c04030509ae20"
+    },
+    {
+      "path": "_internal/bleak/backends/p4android/scanner.py",
+      "bytes": 10842,
+      "sha256": "71708c4e5611a2d3c5501ce56ae61e6df4b2d059872ae304cd2f5e758b181bed"
+    },
+    {
+      "path": "_internal/bleak/backends/p4android/utils.py",
+      "bytes": 3330,
+      "sha256": "9a4ae3cc90479e452b8b8d5897aaa02a3965cfe2d742a3542cc8fa0d6e470f0a"
+    },
+    {
+      "path": "_internal/bleak/backends/scanner.py",
+      "bytes": 10184,
+      "sha256": "cebc966f8f98c11a049955757dcf77bbfaad88039597e92ef273fe32583ae749"
+    },
+    {
+      "path": "_internal/bleak/backends/service.py",
+      "bytes": 7576,
+      "sha256": "8618ca1a499f82c2a83528b723085e7f951617c3c2e7ece15838b49c1d0815e2"
+    },
+    {
+      "path": "_internal/bleak/backends/winrt/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/bleak/backends/winrt/client.py",
+      "bytes": 43414,
+      "sha256": "191a8edda24f0424c5173ac1322ee90a32495b8157e648d50be9a9a8029ffab1"
+    },
+    {
+      "path": "_internal/bleak/backends/winrt/scanner.py",
+      "bytes": 12876,
+      "sha256": "1c5af33965704dcfc515e7672a3d7ffa1a5499e0a628ed68f381c638d4972d07"
+    },
+    {
+      "path": "_internal/bleak/backends/winrt/util.py",
+      "bytes": 6486,
+      "sha256": "6cd4f48af9151283b8a2d781d5c4410530031e8965b9c731ec01158232dae113"
+    },
+    {
+      "path": "_internal/bleak/exc.py",
+      "bytes": 11504,
+      "sha256": "be86bccba796764bcc25c10a00eeeb66a800803806b4210e339ad9dc910256ae"
+    },
+    {
+      "path": "_internal/bleak/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/bleak/uuids.py",
+      "bytes": 49038,
+      "sha256": "8a777eeb43a335fa045cbce109f6095931a12ee4e0c09b8dd2f2cf9ef64bf0e7"
+    },
+    {
+      "path": "_internal/bleak-3.0.1.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/bleak-3.0.1.dist-info/licenses/AUTHORS.rst",
+      "bytes": 754,
+      "sha256": "6734bf7b405036645eb34f18f41cb47f8bbe1fb43baedb97b383fefd588f9c93"
+    },
+    {
+      "path": "_internal/bleak-3.0.1.dist-info/licenses/LICENSE",
+      "bytes": 1072,
+      "sha256": "c4029a2b63b3824ab68be841f414addbdde20cb79cdbe272fa80c0b2abe65374"
+    },
+    {
+      "path": "_internal/bleak-3.0.1.dist-info/METADATA",
+      "bytes": 5173,
+      "sha256": "3d03ff2e84f101c37b51b8a33706979976e5b5786c83ec6745d58658b120aeab"
+    },
+    {
+      "path": "_internal/bleak-3.0.1.dist-info/RECORD",
+      "bytes": 7514,
+      "sha256": "85d0efdc201c7dead4ff5a61830a108c74a3b65609fd1b0b8dc616de8b0a0f7d"
+    },
+    {
+      "path": "_internal/bleak-3.0.1.dist-info/REQUESTED",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/bleak-3.0.1.dist-info/WHEEL",
+      "bytes": 88,
+      "sha256": "909091253fe0d1a75f009cd3c761943264bcd2b4c92151d109f1b40d080bab7a"
+    },
+    {
+      "path": "_internal/certifi/cacert.pem",
+      "bytes": 235863,
+      "sha256": "2ef52ad56b4803e264045c915e55c236cbfa045b84b81efefc218a19eb44bd2b"
+    },
+    {
+      "path": "_internal/certifi/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/charset_normalizer/cd.cp313-win_amd64.pyd",
+      "bytes": 115200,
+      "sha256": "9cccc0b9eb9f514f25cf21d9a8f09948506978ffa19d80ccd6be8df9a9890095"
+    },
+    {
+      "path": "_internal/charset_normalizer/md.cp313-win_amd64.pyd",
+      "bytes": 206336,
+      "sha256": "b484d0fc3d09e52a4974f4aebfc8f79cc5e4f38e375d76402b93905f03f803b1"
+    },
+    {
+      "path": "_internal/libcrypto-3.dll",
+      "bytes": 5231472,
+      "sha256": "ccfffddcd3defb8d899026298af9af43bc186130f8483d77e97c93233d5f27d7"
+    },
+    {
+      "path": "_internal/libffi-8.dll",
+      "bytes": 39696,
+      "sha256": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a"
+    },
+    {
+      "path": "_internal/libssl-3.dll",
+      "bytes": 794992,
+      "sha256": "007142039f04d04e0ed607bda53de095e5bc6a8a10d26ecedde94ea7d2d7eefe"
+    },
+    {
+      "path": "_internal/numpy/_core/_multiarray_tests.cp313-win_amd64.pyd",
+      "bytes": 65024,
+      "sha256": "f63fc28bf2ba5ad9dcd005fac619f7db755cfd042ba9cfd737580afc144505fc"
+    },
+    {
+      "path": "_internal/numpy/_core/_multiarray_umath.cp313-win_amd64.pyd",
+      "bytes": 3852288,
+      "sha256": "db35bf93aeb4bb054c87b525cc83e8dbcbf00c6555ab8599c5cb83f6b0662da9"
+    },
+    {
+      "path": "_internal/numpy/fft/_pocketfft_umath.cp313-win_amd64.pyd",
+      "bytes": 276480,
+      "sha256": "37f2489f7f77abcccf3b25d6ef8991603b0091f30b588c0f055b62447a5b1f8f"
+    },
+    {
+      "path": "_internal/numpy/linalg/_umath_linalg.cp313-win_amd64.pyd",
+      "bytes": 112128,
+      "sha256": "2e9de32125fbcaeace0c92b03d73b8aa2350145745b1c8becf630b2115e72a1a"
+    },
+    {
+      "path": "_internal/numpy/random/_bounded_integers.cp313-win_amd64.pyd",
+      "bytes": 208896,
+      "sha256": "272f4ccc58c126859f1bf8d68567a5e9af7cac506c2e8ee8af2534ee5f17a594"
+    },
+    {
+      "path": "_internal/numpy/random/_common.cp313-win_amd64.pyd",
+      "bytes": 174080,
+      "sha256": "39ca41cd798b1764cf4b7e5a4da90f0310a7fc0eaf28d6a4c0e8ae82bb737797"
+    },
+    {
+      "path": "_internal/numpy/random/_generator.cp313-win_amd64.pyd",
+      "bytes": 623104,
+      "sha256": "89ea4a8afb7c6f40698a4109f7de0cc724f39df532066addcb22fab5ad4e6036"
+    },
+    {
+      "path": "_internal/numpy/random/_mt19937.cp313-win_amd64.pyd",
+      "bytes": 92160,
+      "sha256": "cbbf3102f191dbde91e92a9f6c92f0bbdc5dcff503ab1bfbdb71a20d58d59f1c"
+    },
+    {
+      "path": "_internal/numpy/random/_pcg64.cp313-win_amd64.pyd",
+      "bytes": 103936,
+      "sha256": "9e52e35228d84ce08892bda073eeda77090b0bdcb03358073d18e85c51b30a44"
+    },
+    {
+      "path": "_internal/numpy/random/_philox.cp313-win_amd64.pyd",
+      "bytes": 88576,
+      "sha256": "ae88e8dd59fb6b10ccc58f532981d064334da2ee95625a9362470a9e1340c15a"
+    },
+    {
+      "path": "_internal/numpy/random/_sfc64.cp313-win_amd64.pyd",
+      "bytes": 62976,
+      "sha256": "0edc859b239f52918535b69b1afd675e2021e04474d08db3b931c69ba35caf98"
+    },
+    {
+      "path": "_internal/numpy/random/bit_generator.cp313-win_amd64.pyd",
+      "bytes": 172032,
+      "sha256": "d42e032016f4066e24f3069534d1827547e47fac5ed09af65e75b43f756bf425"
+    },
+    {
+      "path": "_internal/numpy/random/mtrand.cp313-win_amd64.pyd",
+      "bytes": 521728,
+      "sha256": "7e04661bf0700be326854ff3c29b62e557b771b26c71e92108bc734281eb4187"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/DELVEWHEEL",
+      "bytes": 462,
+      "sha256": "227ef1899db659002e9441b560a9ad0ff065bf8ee0ba1626060f2fb4f62175b5"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/entry_points.txt",
+      "bytes": 220,
+      "sha256": "ec26fade0c8bdac211a6c1dd003a65eb16885b925395423e93fcaa115af4052c"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/LICENSE.txt",
+      "bytes": 45831,
+      "sha256": "a804dff0ead9fadc5293456410bcbfc32bf024be9c4513459663fb7b442d2341"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "bytes": 1039,
+      "sha256": "d544761558b510866c21f7e8a2d5716fca76e0b98117e3b6b86314db7244d150"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "bytes": 704,
+      "sha256": "aea41976c720f91bd19725c16916a1ace40eb1ea42620d340e587a5de4bbcea0"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "bytes": 21155,
+      "sha256": "d208152e2777ffd0126eacc1bd21c0320d69e4e6b622d21a2a12a47e8ef73763"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "bytes": 1441,
+      "sha256": "b0fd592d4ead563148e3977e7b589169d46a5ef2ff133c755a81af880a3fc919"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "bytes": 1542,
+      "sha256": "a732977853530066790c42817087f4829b518dd98d340c916acbfd227e39d3cb"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "bytes": 1573,
+      "sha256": "585483905b13d4b42f800c55ba99e89d6e2e33ccd5f503e201c07531d148ff41"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "bytes": 1523,
+      "sha256": "8db000e158c162e7249787852d8c69764706502ccee725c06641b31c1e95c8af"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "bytes": 2314,
+      "sha256": "19060ef465e1797d682ee0fc3081bd25ab1395e995e43d25c9d13c95d9a3cd6b"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/ma/LICENSE",
+      "bytes": 1616,
+      "sha256": "d78dbb208b80d92b4d333e41a4baae50d12444f46e53199fa7726a91de6e2da7"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/random/LICENSE.md",
+      "bytes": 3582,
+      "sha256": "b4bc2f4fa1c95778f1ed3dd8f14706bece399475b978f9f34b5d3cd72521b48a"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+      "bytes": 2805,
+      "sha256": "cf5619f25b112d5ce7c896efffc8e610bcb345dfadcc19f2c1460aa48fff2c9e"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "bytes": 2986,
+      "sha256": "92c10699884321f1c2947fe2a70ab23b0fbf1507f756d89dd08f38c61fc3d4fa"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "bytes": 1176,
+      "sha256": "41190663b77bee5302386495a07b7eabfbfa571aa0ae2f11da6764162062fc4f"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+      "bytes": 1540,
+      "sha256": "322ac46d870c8aeead6c53adcccc839296fb3c8e456eae155081297daf7f8013"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "bytes": 1253,
+      "sha256": "28cad82ce1379dc529df30da78ec012d7d0d1d576b03ddcb93388aee53659f59"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "bytes": 340,
+      "sha256": "454ec7350e478e037061850b67395753b425b1cb0a34bbc26290b020bf89d763"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/METADATA",
+      "bytes": 6635,
+      "sha256": "451a9b8028000588e66b0b415587b6aef0bbc51a96d8e8a0cba0dc23acf64f99"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/RECORD",
+      "bytes": 113358,
+      "sha256": "f6b9b775781fe8749b1c8f6e68ce9533d78353522e4ae3bce48cb6a939823950"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/REQUESTED",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/numpy-2.5.3.dist-info/WHEEL",
+      "bytes": 85,
+      "sha256": "b2eabc011af16e223b88b1f70602bef36bb3c50fb81e6fa6f30d35a02a24aed0"
+    },
+    {
+      "path": "_internal/numpy.libs/libscipy_openblas64_-ed4f167a5330424524f45258e7ca2c8d.dll",
+      "bytes": 20589056,
+      "sha256": "ed4f167a5330424524f45258e7ca2c8d7f03c0cba1f30ee4985553ac1f88ecf8"
+    },
+    {
+      "path": "_internal/numpy.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll",
+      "bytes": 575056,
+      "sha256": "a4c2229bdc2a2a630acdc095b4d86008e5c3e3bc7773174354f3da4f5beb9cde"
+    },
+    {
+      "path": "_internal/pyexpat.pyd",
+      "bytes": 204768,
+      "sha256": "567f19a92479e66b652ffaadbddba26b7c5dda43d5e97c67a4a76a076021b736"
+    },
+    {
+      "path": "_internal/PySide6/MSVCP140.dll",
+      "bytes": 549176,
+      "sha256": "4c667b706893593812cd111b369ba6a77f54d1f1b1ae87cf3bf37692663cfba2"
+    },
+    {
+      "path": "_internal/PySide6/MSVCP140_1.dll",
+      "bytes": 27448,
+      "sha256": "d419d24b0a76366f5c9d908b0e45fe70e9e9154bb8ad5f3de42070f2337f857b"
+    },
+    {
+      "path": "_internal/PySide6/MSVCP140_2.dll",
+      "bytes": 271672,
+      "sha256": "89917964abb6ca16a260cab258e180c3abc239b5af00eed659d0edf0efdd339c"
+    },
+    {
+      "path": "_internal/PySide6/opengl32sw.dll",
+      "bytes": 20639544,
+      "sha256": "34b444c016289b560662ff896deceb7f4b2c0723aed3d319ae167c9186ce42b3"
+    },
+    {
+      "path": "_internal/PySide6/plugins/generic/qtuiotouchplugin.dll",
+      "bytes": 101176,
+      "sha256": "aa9080fa8b1c3cf4d3790c1eecf4a1f5c796ce58f31f80910357578f20fd80ac"
+    },
+    {
+      "path": "_internal/PySide6/plugins/iconengines/qsvgicon.dll",
+      "bytes": 72504,
+      "sha256": "5bb97b6f114682ae0b5f42b23b6818aece6499bad88dac80a138efa8a88c12bc"
+    },
+    {
+      "path": "_internal/PySide6/plugins/imageformats/qgif.dll",
+      "bytes": 47928,
+      "sha256": "d301d7e9a68327692e4c76faa6b125517730b22c68f4de7f09fda9d4ac0ddee1"
+    },
+    {
+      "path": "_internal/PySide6/plugins/imageformats/qicns.dll",
+      "bytes": 57144,
+      "sha256": "49db148fea9f01e9953fd0a771d16cfaf364599f07aab3634d4f5c7c25abd78a"
+    },
+    {
+      "path": "_internal/PySide6/plugins/imageformats/qico.dll",
+      "bytes": 46904,
+      "sha256": "1684fd56f1758167f7b3ac011264ae5859b3cf6113e381626ec3dc1d3122fe52"
+    },
+    {
+      "path": "_internal/PySide6/plugins/imageformats/qjpeg.dll",
+      "bytes": 591672,
+      "sha256": "6517345ac19f5c489daeadc029d0018bbdc09d8e1031c60d714557972f22c6d4"
+    },
+    {
+      "path": "_internal/PySide6/plugins/imageformats/qpdf.dll",
+      "bytes": 42296,
+      "sha256": "541350d584d990b8dcccb6726a4cb2169b901b90b6221273f813a13256570705"
+    },
+    {
+      "path": "_internal/PySide6/plugins/imageformats/qsvg.dll",
+      "bytes": 39736,
+      "sha256": "4b7d65ba39be58cb469b54b5fdee2987871d67e5050cd70724016e09966e54f6"
+    },
+    {
+      "path": "_internal/PySide6/plugins/imageformats/qtga.dll",
+      "bytes": 38200,
+      "sha256": "6b0381150070fcd4224597fe73c68b47055b30b418aa14794c94c5007d14ca5d"
+    },
+    {
+      "path": "_internal/PySide6/plugins/imageformats/qtiff.dll",
+      "bytes": 445752,
+      "sha256": "3d6ea04da215ee2a9459399fb9f6d73cad8787944b9d450399025bcd39d020b5"
+    },
+    {
+      "path": "_internal/PySide6/plugins/imageformats/qwbmp.dll",
+      "bytes": 36664,
+      "sha256": "1a4596509987e9557edda69ed13cdd0d33f4ebda72e464ddc00a566bec05f151"
+    },
+    {
+      "path": "_internal/PySide6/plugins/imageformats/qwebp.dll",
+      "bytes": 564536,
+      "sha256": "6b2c53cc4423140c29a6a1eb6dd908016e09d794b5739a05a3a39c8c49a0df8a"
+    },
+    {
+      "path": "_internal/PySide6/plugins/networkinformation/qnetworklistmanager.dll",
+      "bytes": 79160,
+      "sha256": "e571a4b4e582738cd1bc4889cb2896635c2543baff408442701b6706a1b4a86e"
+    },
+    {
+      "path": "_internal/PySide6/plugins/platforminputcontexts/qtvirtualkeyboardplugin.dll",
+      "bytes": 34104,
+      "sha256": "e10c64dd2ae4f9b756ec1ebe3950a05e345ba40834b7be2900af426623d85475"
+    },
+    {
+      "path": "_internal/PySide6/plugins/platforms/qdirect2d.dll",
+      "bytes": 1071416,
+      "sha256": "56f41ad523d016fe2cf2c90fae158e21766d1fcd021bced1a3704c6da0f00c98"
+    },
+    {
+      "path": "_internal/PySide6/plugins/platforms/qminimal.dll",
+      "bytes": 61752,
+      "sha256": "768a9c6dbb1c86abbefa2ff9d7e98cdfb4fdc9292eb8d64195bb6d23939a5344"
+    },
+    {
+      "path": "_internal/PySide6/plugins/platforms/qoffscreen.dll",
+      "bytes": 110904,
+      "sha256": "e776251668440169ed18a2fe1b236762d514ef5244639cbb559b5a77ddd38954"
+    },
+    {
+      "path": "_internal/PySide6/plugins/platforms/qwindows.dll",
+      "bytes": 991032,
+      "sha256": "bf6dbc3009f386fa22f0ced560bea6bbf3e0e0b4442d2fb855db67cffce49dbf"
+    },
+    {
+      "path": "_internal/PySide6/plugins/styles/qmodernwindowsstyle.dll",
+      "bytes": 240440,
+      "sha256": "a7a6424c23bf371bd28a404a196b210971726f6f2a87b63aac185a5e6e40da71"
+    },
+    {
+      "path": "_internal/PySide6/plugins/tls/qcertonlybackend.dll",
+      "bytes": 104760,
+      "sha256": "67be4d333a0f489d02714169a6ec54eaa80efa649d733fcbeb81881ecb02b4f3"
+    },
+    {
+      "path": "_internal/PySide6/plugins/tls/qopensslbackend.dll",
+      "bytes": 314168,
+      "sha256": "7a0727417b8e21e64d9a7cf0f390bc85b3e337b4eef5ac977f49659d97e6b552"
+    },
+    {
+      "path": "_internal/PySide6/plugins/tls/qschannelbackend.dll",
+      "bytes": 247608,
+      "sha256": "14abc5b245c0f2e03f7bc0b474a8db2ecb441c7300a8a8b16fb865eaf2674619"
+    },
+    {
+      "path": "_internal/PySide6/pyside6.abi3.dll",
+      "bytes": 255288,
+      "sha256": "d0b5c701fb3a8ea839e72b602058f3960935156ebeca084893c54c99e54dd707"
+    },
+    {
+      "path": "_internal/PySide6/Qt6Core.dll",
+      "bytes": 10363704,
+      "sha256": "d6a3c37c5263c5d418fc0e80b722bc9fca7c0859e6f635f9624a2fde00bdc653"
+    },
+    {
+      "path": "_internal/PySide6/Qt6Gui.dll",
+      "bytes": 9546552,
+      "sha256": "ae29b005f51b6850bf57fa06fced0dc8c7039fd6fafc3bfbcfe76e38adc7abf1"
+    },
+    {
+      "path": "_internal/PySide6/Qt6Network.dll",
+      "bytes": 1751352,
+      "sha256": "dd3512d1c5ed062d30c98426cd0a850f13e0cf31437afb5b0b474132b9c52922"
+    },
+    {
+      "path": "_internal/PySide6/Qt6OpenGL.dll",
+      "bytes": 1988408,
+      "sha256": "d51088f16db8c96dba7ef3c1474e611adb3ebdb211fea35b8e755d2a7407f7ad"
+    },
+    {
+      "path": "_internal/PySide6/Qt6Pdf.dll",
+      "bytes": 4620600,
+      "sha256": "6fc87c84a723b05a0a3d7dce87083d25d23b1558e8806ff1cc7952bb9c5c9779"
+    },
+    {
+      "path": "_internal/PySide6/Qt6Qml.dll",
+      "bytes": 5337912,
+      "sha256": "514fc8d9ff0754d2bcb446bbe0f6cc421213d92c8c1870e4cf787e4e176d51f6"
+    },
+    {
+      "path": "_internal/PySide6/Qt6QmlMeta.dll",
+      "bytes": 159032,
+      "sha256": "c6e8b02ad52e01e0e865a085b629b08629fbe5c68146425d4cefdcaaef7a8462"
+    },
+    {
+      "path": "_internal/PySide6/Qt6QmlModels.dll",
+      "bytes": 990008,
+      "sha256": "066e72ad668ff02dcf530805d071313f9e89d9f1fb49a522aa4ed52712741bf2"
+    },
+    {
+      "path": "_internal/PySide6/Qt6QmlWorkerScript.dll",
+      "bytes": 79672,
+      "sha256": "c037ab72fb9c1c1ebbe47f70b8a35d440537765ef6207424aae0c16fea26eda1"
+    },
+    {
+      "path": "_internal/PySide6/Qt6Quick.dll",
+      "bytes": 6569272,
+      "sha256": "900a493625af1f7d9fe6071b9aaee15e560cc7afc122702656723539ed81975f"
+    },
+    {
+      "path": "_internal/PySide6/Qt6Svg.dll",
+      "bytes": 609080,
+      "sha256": "1eac8f7415b311a88cb3cb4e25c3098d0e059c24c831fbbb13f43a80f0df06b7"
+    },
+    {
+      "path": "_internal/PySide6/Qt6VirtualKeyboard.dll",
+      "bytes": 427832,
+      "sha256": "a14fac89759569965dbeb45b2a13e592c0bce0cc559adaa32145fcb92de016f9"
+    },
+    {
+      "path": "_internal/PySide6/Qt6Widgets.dll",
+      "bytes": 6497080,
+      "sha256": "ff0df9e2e6827e035f0731a4cedfc6333f4602bca00775e56346f27032406b74"
+    },
+    {
+      "path": "_internal/PySide6/QtCore.pyd",
+      "bytes": 3345720,
+      "sha256": "74f96322c5e9cea73aefd2ed5870e5275336b31f552fcd32f12fc81d23f1bc6f"
+    },
+    {
+      "path": "_internal/PySide6/QtGui.pyd",
+      "bytes": 3901240,
+      "sha256": "7bef20046045199c037b7cbfedaa1c5464730fa948b2c9ec8afbf718e63774d4"
+    },
+    {
+      "path": "_internal/PySide6/QtNetwork.pyd",
+      "bytes": 1009464,
+      "sha256": "c5038bb71fc9d57330fa2d8eeec65aab69fcf02687cc8f54dbfb5995cfec6a71"
+    },
+    {
+      "path": "_internal/PySide6/QtWidgets.pyd",
+      "bytes": 4857656,
+      "sha256": "f12f4ca641998e5706d5f7b0023147d573f0f2d2361e26dadf31bdbf05fbfd1d"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_ar.qm",
+      "bytes": 104,
+      "sha256": "b11333c520ccd8e375cde20985df402d586a1a95e0796313bbeb9f717d4db22e"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_bg.qm",
+      "bytes": 91,
+      "sha256": "1e22ee126ec9f76031d880285a907b3a0c4510392319ff700dcdee964abbb1ad"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_ca.qm",
+      "bytes": 91,
+      "sha256": "17ab2623c7f6e8def44b3dbcb517544185817d65f1298ddb10ef71136f232bdc"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_cs.qm",
+      "bytes": 95,
+      "sha256": "c585918fb1d4821a054ea40bdcf279f275ca76c88a5793f433dac6a611ac7e8f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_da.qm",
+      "bytes": 91,
+      "sha256": "f6773c672acb73fdef6e092060d69d1e5dfee840012bac912d1e92de28714386"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_de.qm",
+      "bytes": 91,
+      "sha256": "0401c316aa3b50a172eb44a4ff1ec384924073beec7c928ef888ec48e4612688"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_en.qm",
+      "bytes": 33,
+      "sha256": "494ac9a2b2cb2fdeced353f4a9f898ed8dcf616e9bc667438c62681e3f7f79cf"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_es.qm",
+      "bytes": 91,
+      "sha256": "648ed4519bc45d7a4779479a7626ea16cf9aa23e93a0b178546cc47bea0591ab"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_fa.qm",
+      "bytes": 84,
+      "sha256": "3f4c989c6b2990d80cc6299408214b31698923b52f154483b3371875de91f88e"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_fi.qm",
+      "bytes": 91,
+      "sha256": "342d01c7eeb234e431d0506821c4cd03c0433115d8d63fee3357be2331858879"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_fr.qm",
+      "bytes": 91,
+      "sha256": "c896a38892a92346b033793d56440993236b23e47e06f3974afdb0552f628387"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_gd.qm",
+      "bytes": 70,
+      "sha256": "49df855a004a17950338af3146466f6df4d5852410bd0b58ea80e0d0203a9d24"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_gl.qm",
+      "bytes": 323590,
+      "sha256": "204a01ac7deb6b5bae193afecbd1e50d18c73bf7d94badeb2bbfdf6123c4ed93"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_he.qm",
+      "bytes": 57,
+      "sha256": "36f01fff2f25e116d4b7af78097b7e49520fd5b7fb6fb120e40be228c05c045f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_ar.qm",
+      "bytes": 8743,
+      "sha256": "222088c9752d1cc3bab985ef2dc77e5ae78578dce18a61ec15b39f02e588163d"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_bg.qm",
+      "bytes": 10599,
+      "sha256": "cbcdd1e0bbae332d80ddb0a286056f17c824fa28d353d7fdf12fc97d9f6fe054"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_ca.qm",
+      "bytes": 7435,
+      "sha256": "fe40962c814a9f489e18d033e4aaabe435232c9bcf760830c6165af507cca80e"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_cs.qm",
+      "bytes": 15297,
+      "sha256": "4ac56fc63e400943bab13f1d4c418502138908e1d488c24aee6131d3d17552aa"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_da.qm",
+      "bytes": 4795,
+      "sha256": "6bb092552a398687119f6d52145f04bf8373977446d8f00c0dcbd56b96829f0f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_de.qm",
+      "bytes": 7569,
+      "sha256": "037bc99abf98571ae9375c2513536c15b571d66406c36c1de447b547ff539c07"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_en.qm",
+      "bytes": 33,
+      "sha256": "494ac9a2b2cb2fdeced353f4a9f898ed8dcf616e9bc667438c62681e3f7f79cf"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_es.qm",
+      "bytes": 10704,
+      "sha256": "fd16b279f8cf69077f75e94d90c9c07a2afff3948a579e3789f5ffb5e5f4202d"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_fr.qm",
+      "bytes": 3573,
+      "sha256": "875ee2dcdc64e3dea888d84048e382d3921a175f12847de2e6b1cb12ad9add50"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_gl.qm",
+      "bytes": 10891,
+      "sha256": "7399a248609974773f60866c87b78ea7dfbc4f750313d692f7886cd763883c9f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_hr.qm",
+      "bytes": 5170,
+      "sha256": "8c8cc3c5b1ab2b074f82937001b896603420ef75592b3b78172177360dd7ea61"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_hu.qm",
+      "bytes": 7255,
+      "sha256": "7be32e015119c969453abb6e8f3fb377963a69fafb10c27b796737b5eb283eaf"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_it.qm",
+      "bytes": 10612,
+      "sha256": "316fe8d0815e2b4b396895beb38ef1a40431915b5e054df80f4c0cd556f26e4b"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_ja.qm",
+      "bytes": 7917,
+      "sha256": "ae603b2c0d434d40cde433ffcba65f9ee27978a9e19316007be7fe782a5b8b47"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_ka.qm",
+      "bytes": 7091,
+      "sha256": "159c74f94b384b5ee6afdf38b6cfc4806bc99ecf73be02d4a7021d4ceba7ec7e"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_ko.qm",
+      "bytes": 5708,
+      "sha256": "f11c64694e8e34e1d2c46c1a1d15d6ba9f2db7b61de4fdf54eca5ab977c3e052"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_nl.qm",
+      "bytes": 5087,
+      "sha256": "44a8a0daf775d14352180052d13f623814d7bdf98e2c5c80144b7bf74214e3b0"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_nn.qm",
+      "bytes": 6934,
+      "sha256": "4c8a7213942078e4f72f5babd26c41b77ace70189714a58b5504a7d5ad0193dc"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_pl.qm",
+      "bytes": 9673,
+      "sha256": "cc6cb4d8c54086224672f2e49e623c8cb7c0c1cd65b8d5ecd42fc9ba3a6065bd"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_pt_BR.qm",
+      "bytes": 16030,
+      "sha256": "b4015c5d519b4fe93c00bf734d1742e4f0094d89862664d548eb64a46a2feae7"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_ru.qm",
+      "bytes": 7288,
+      "sha256": "557b644e6da5f1ec720ef93965617087e4d1f40b2494cc5aa524cf3796108de7"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_sk.qm",
+      "bytes": 10388,
+      "sha256": "f41e33e1d790bd0d3eb180f1f875bc191fe74773628f25c2cad95e1402e66867"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_sl.qm",
+      "bytes": 10363,
+      "sha256": "2ec955e662407ebcd8dcdae5aaa21e4108e0b5b0aee0e9db712c27072943535f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_sv.qm",
+      "bytes": 6934,
+      "sha256": "95bdb03dbaa6dbdfda46c249e9ccce9a353f71ddb8b112961e8b005b2c60b13c"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_tr.qm",
+      "bytes": 6723,
+      "sha256": "81da2f88cd624097581f2d29b10311796bcd9ab289e65883346d276110542d28"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_uk.qm",
+      "bytes": 9750,
+      "sha256": "497cfc473684692ee44d7a3795e8fb2270c57069fd9eb98a615dd29ab9be8a7c"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_zh_CN.qm",
+      "bytes": 5115,
+      "sha256": "e256d1f6034a5a5521c62f129f91731216e474f71e1d9caea3d3dcb11b670deb"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_help_zh_TW.qm",
+      "bytes": 5160,
+      "sha256": "40112812abb43853d678cc6d97729f21f21b3a7321c827fc9d18f6c936447d1e"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_hr.qm",
+      "bytes": 102,
+      "sha256": "fc9e4146f33be3d09b234be01e56235d3037d8d82d64f0700b4d4a6e253a61a7"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_hu.qm",
+      "bytes": 84,
+      "sha256": "c2fa649f167cdb801d1cc0cb69c1d93594fd5bf8c0b7e79b969935da5c3e19aa"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_it.qm",
+      "bytes": 91,
+      "sha256": "9e7a18bc20ebeec54baaaf41c918a74534511271f796dffffd0f9b9ec31c68d3"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_ja.qm",
+      "bytes": 84,
+      "sha256": "0f5fe50452947d1ee9755249d860354bff6977279b4c496a5bc77e5b89dd745e"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_ka.qm",
+      "bytes": 94,
+      "sha256": "00b67c6dfc255079b5b98a5640f82519c96b2520a028682fba4078b39d743eaa"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_ko.qm",
+      "bytes": 84,
+      "sha256": "1d254b535e1cb35cbcad8210b15b89f4488159826bf35b4504696263dd102fa3"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_lg.qm",
+      "bytes": 57,
+      "sha256": "6ba668501f4c040c66da1bdc022362da3c8cf663da6aa484cbdb599028da98ed"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_lt.qm",
+      "bytes": 165383,
+      "sha256": "47eb5f97467df769261421d54a5bea1131c9fb9b6388791d38bb6574335b64bf"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_lv.qm",
+      "bytes": 63,
+      "sha256": "addeca285282338294f24ca50d37d08a5f68d3785d0a94af86dd4ec8f2a3b449"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_nl.qm",
+      "bytes": 91,
+      "sha256": "39e870cbd25c0f97fa9b1828d5ea1ed9849857a2e26c5321b3f13c76be8f0548"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_nn.qm",
+      "bytes": 91,
+      "sha256": "4e544e23f75eafe1553dc896973db23b5795cd243786d5c653cc0f36a46ca74f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_pl.qm",
+      "bytes": 99,
+      "sha256": "e6890afa0caf0f6db0248e4c94f6016b8ec8bc266f1e0e9b8f01e8ea912cf968"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_pt_BR.qm",
+      "bytes": 106,
+      "sha256": "0e24c58e35271853f8cdfb3f0f7b0741b5a9a588e43cdec62ae85a3842771e0a"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_pt_PT.qm",
+      "bytes": 70334,
+      "sha256": "2c1e7bbf5168a64b43752dd4c547601c0bde6d610f8671fa3e3af38597e84783"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_ru.qm",
+      "bytes": 102,
+      "sha256": "1b388e2d6d1bd405603e794e498c6d7ec5f5a5ad819243546f6399181da36758"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_sk.qm",
+      "bytes": 95,
+      "sha256": "840c3b01c89df976fc1d2e5bfc6fc84b65666b8a3ceb4cbf5aa0c22af3d2a383"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_sl.qm",
+      "bytes": 228428,
+      "sha256": "c44e0313a9414cc0e490b65b0c036fa11bca959353b228886547bc2c8492034f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_sv.qm",
+      "bytes": 91,
+      "sha256": "daaae448e0814b469ac3d7a91096fde15491600a6b8bc6c01508425fb5e8b3ec"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_tr.qm",
+      "bytes": 84,
+      "sha256": "59e8a0c411be3b0802a68561b090f182099d6b75c4fe46f398e55f11528e11b9"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_uk.qm",
+      "bytes": 102,
+      "sha256": "053ec1f677c4dba48c6a97eb28f4fc78c1511324d1843d7f4cec2c7c00a66145"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_zh_CN.qm",
+      "bytes": 99,
+      "sha256": "c0e29d32c9540a7e78643b74214e633c56f6ab11f018e516629f2c11b1fb09fc"
+    },
+    {
+      "path": "_internal/PySide6/translations/qt_zh_TW.qm",
+      "bytes": 99,
+      "sha256": "24e226954491689549a1a1990db3b8cb78888008d8163b2fd2442b772b6d1b5f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_ar.qm",
+      "bytes": 160017,
+      "sha256": "e03fe68d83201543698fd7fe267dd5dfc5bfd195147e74ff2f19ac3491401263"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_bg.qm",
+      "bytes": 165337,
+      "sha256": "e448ac9e3f16c29eb27af3012efe21052daa78fabfb34cd6dff2f69ee3bd3cdb"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_ca.qm",
+      "bytes": 269007,
+      "sha256": "5298532fc52ffbc4e2c549f277151a61e741921c834286f7c04d3753677b6b04"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_cs.qm",
+      "bytes": 174701,
+      "sha256": "03028b42df5479270371e4c3bdc7df2f56cbbe6dda956a2864ac6f6415861fe8"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_da.qm",
+      "bytes": 181387,
+      "sha256": "7d1e5ca3310b54d104c19bf2abd402b38e584e87039a70e153c4a9af74b25c22"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_de.qm",
+      "bytes": 223282,
+      "sha256": "ed828a83dfaa51944f166c842155b48ab3bd7cb2c46dcd96269eb5d48af4f63f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_en.qm",
+      "bytes": 33,
+      "sha256": "494ac9a2b2cb2fdeced353f4a9f898ed8dcf616e9bc667438c62681e3f7f79cf"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_es.qm",
+      "bytes": 165170,
+      "sha256": "4ffda56ba3bb5414ab0482d1dde64a6f226e3488f6b7f3f11a150e01f53fa4c8"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_fa.qm",
+      "bytes": 148156,
+      "sha256": "f78e59b5bdd586181a999034ba418868ed17fe9c05707fb65e523f70e92253d2"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_fi.qm",
+      "bytes": 179941,
+      "sha256": "e47fe13713e184d07fa4495dde0c589b0e8f562e91574a3558a9363443a4fa72"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_fr.qm",
+      "bytes": 159463,
+      "sha256": "314243a55c32679ad473fdfe48dc7d66e973ad0fc8bf2164480c58dddb50c1a7"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_gd.qm",
+      "bytes": 189580,
+      "sha256": "63b439dd44139aa3aed54c2ebe03fa9bc77f22c14ed8fba8eff2608445bb233d"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_he.qm",
+      "bytes": 138690,
+      "sha256": "e1ebca16afe8994356f81ca007fbdb9ddf865842010fe908923d873b687cad3f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_hr.qm",
+      "bytes": 149711,
+      "sha256": "bb9eec9a9a652c1340dc75eb2e749be50df00f885b3d6900dfc76799c45b244d"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_hu.qm",
+      "bytes": 205885,
+      "sha256": "98463295539d769c8645a0b7fb95ad38454cfd0b14f36af485513f036ddbbbc6"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_it.qm",
+      "bytes": 161166,
+      "sha256": "7808ed542a7833c4bd94ec8bdfbbca00bb4f2fe15979b9121ce3249323687300"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_ja.qm",
+      "bytes": 129913,
+      "sha256": "2b9581c69b975f59be505b127cd3c19d403ef3d12e0e8386fb97238223e9c1df"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_ka.qm",
+      "bytes": 201105,
+      "sha256": "e55e4b72fa620bebee5297ca59dfe2f49894a1e544f2b7485b1cfd8829289d6f"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_ko.qm",
+      "bytes": 156799,
+      "sha256": "0179ed1b136e1cb3f583351eaa2c545ba3d83a6ee3f82c32505926a1a5f5f183"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_lg.qm",
+      "bytes": 315764,
+      "sha256": "31c0cc4ce13b1d74fe0c19ed0b47638fb31e20c93ee08092533e884007aebfb5"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_lv.qm",
+      "bytes": 153608,
+      "sha256": "846e047573ae40c83671c3ba7f73e27efc24b98c82701da0df9973e574178bb2"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_nl.qm",
+      "bytes": 202861,
+      "sha256": "f61513bcdbb6ad800585f9437a95d018aab17fa12ee414aa31462ff279d8240e"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_nn.qm",
+      "bytes": 196411,
+      "sha256": "f9f2fb7c60e7fcb38bbd3c1314ef122145594265e20b0659ff00004baab13ac7"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_pl.qm",
+      "bytes": 162962,
+      "sha256": "3cf6b5c14d5eb0cf81e9af2066e66b3aa579a6b9b3c323ed670761f6254a8c54"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_pt_BR.qm",
+      "bytes": 290955,
+      "sha256": "3475d61604b938d459949801a906dbd34a8ca824ade94120015d676e208da859"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_ru.qm",
+      "bytes": 203767,
+      "sha256": "3da6605668f9178d11a838c4515478084dcfb4f9cf22f99d7a92b492db9c224b"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_sk.qm",
+      "bytes": 125763,
+      "sha256": "d586ae2c314074cf398417fdecb40709d5478dfeb0a67c2fe60d509ee9b59ed7"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_sv.qm",
+      "bytes": 249963,
+      "sha256": "5a2178dd2c03cc4516697f1fb0049649c9ed53f5cde6b937786733dae06aeda8"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_tr.qm",
+      "bytes": 248720,
+      "sha256": "353fdfd7165659a49212e7a25bf91c0a71588e52c836f7496640f26782414634"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_uk.qm",
+      "bytes": 158274,
+      "sha256": "51b8ff55b37dc5907d637a8ddda12fbe816852b0244c74eb4f0fb84867a786e0"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_zh_CN.qm",
+      "bytes": 147222,
+      "sha256": "0481a9b92a6f0578400e960a7d5ee70217a6a450eaf7f98b7d32b8dbd0d58616"
+    },
+    {
+      "path": "_internal/PySide6/translations/qtbase_zh_TW.qm",
+      "bytes": 126185,
+      "sha256": "21012b2b427f8d09d31ce9cae582ca27955b478ca3dc2ec18a3068d808638c6a"
+    },
+    {
+      "path": "_internal/PySide6/VCRUNTIME140.dll",
+      "bytes": 116024,
+      "sha256": "f893ae75a1a24eea174d982f94bc80ce2448201eaa919a73c0653a5657685de4"
+    },
+    {
+      "path": "_internal/PySide6/VCRUNTIME140_1.dll",
+      "bytes": 41272,
+      "sha256": "48aa2783793ea18ab3c2c71d420d4fff9814e662a1ff810053c6e5250061a716"
+    },
+    {
+      "path": "_internal/python3.dll",
+      "bytes": 72536,
+      "sha256": "85d02d4c7e28c0f183415dc2be5fe8e06aa7fa0567673c75c65c0031f59e1e8b"
+    },
+    {
+      "path": "_internal/python313.dll",
+      "bytes": 6110416,
+      "sha256": "0565965617d94274d7f2c2958d0bef33392cd9d2f346f99d8e1bedbdf264ee85"
+    },
+    {
+      "path": "_internal/scipy/_cyutility.cp313-win_amd64.pyd",
+      "bytes": 192000,
+      "sha256": "8b346e8181299759328ea3bfdd63701618e709ac833cd28a30f25a0dd614832a"
+    },
+    {
+      "path": "_internal/scipy/_lib/_ccallback_c.cp313-win_amd64.pyd",
+      "bytes": 105984,
+      "sha256": "0aa2ddbcc7aec96d3c9f288cd9cd7e209d30242421a05aa0cfad8265e75fc151"
+    },
+    {
+      "path": "_internal/scipy/_lib/_fpumode.cp313-win_amd64.pyd",
+      "bytes": 12288,
+      "sha256": "a57f480793ef7cabd552c18ae8f187836ce767231fbc10932be7fe4ebf319587"
+    },
+    {
+      "path": "_internal/scipy/_lib/_uarray/_uarray.cp313-win_amd64.pyd",
+      "bytes": 247296,
+      "sha256": "76b80024ed01494ece2b0128a61351975eb056eca5a4e05c876369cec406070b"
+    },
+    {
+      "path": "_internal/scipy/_lib/messagestream.cp313-win_amd64.pyd",
+      "bytes": 60928,
+      "sha256": "a79f964c8f83dd51b9113a2b7463e7c81d66b911b797bb2c1742cbfb5a15fdf2"
+    },
+    {
+      "path": "_internal/scipy/fft/_duccfft/pyduccfft.cp313-win_amd64.pyd",
+      "bytes": 2786816,
+      "sha256": "92fb73596a012b114faee11a8948d82c9304b33d67d86cf10eb89b4be4de8c5a"
+    },
+    {
+      "path": "_internal/scipy/integrate/_dop.cp313-win_amd64.pyd",
+      "bytes": 87040,
+      "sha256": "4b2449d9166a9817fb4b4f62afbb53e96fe4730bb519fdd100a1da54f0a5544a"
+    },
+    {
+      "path": "_internal/scipy/integrate/_odepack.cp313-win_amd64.pyd",
+      "bytes": 98816,
+      "sha256": "e62f87fde928887c855926caeccaa3221c3f9bc5fc4d89ddd70dbc0413e3aa71"
+    },
+    {
+      "path": "_internal/scipy/integrate/_quadpack.cp313-win_amd64.pyd",
+      "bytes": 142336,
+      "sha256": "509b109c47c6d74fa53f06daaf83b5e464992ae84d597a4966160224937aa942"
+    },
+    {
+      "path": "_internal/scipy/integrate/_vode.cp313-win_amd64.pyd",
+      "bytes": 139264,
+      "sha256": "ba5f02bece9f1f7b77bbe08708b64f82c604ee90d867ea24d84348ea62faf610"
+    },
+    {
+      "path": "_internal/scipy/interpolate/_dierckx.cp313-win_amd64.pyd",
+      "bytes": 292864,
+      "sha256": "e2b25b6b5efdcecd9b41a330e97af592ae7b59ff747d33f64e526ce0cb0c9773"
+    },
+    {
+      "path": "_internal/scipy/interpolate/_fitpack.cp313-win_amd64.pyd",
+      "bytes": 346112,
+      "sha256": "7bf13df3079d2d700c5bde3dd7cd9f75debda794f3b1ce8249bc46af0557222e"
+    },
+    {
+      "path": "_internal/scipy/interpolate/_interpnd.cp313-win_amd64.pyd",
+      "bytes": 233472,
+      "sha256": "8975c3cd0ef2472a756365ad75873c210ea0636636a50cec1305dddca7432784"
+    },
+    {
+      "path": "_internal/scipy/interpolate/_ppoly.cp313-win_amd64.pyd",
+      "bytes": 204800,
+      "sha256": "1b5537cb1e83955903e3626333bcac42e8c2a4b51241e0810390c320dd654bc2"
+    },
+    {
+      "path": "_internal/scipy/interpolate/_rbfinterp_pythran.cp313-win_amd64.pyd",
+      "bytes": 1144832,
+      "sha256": "3735b054ec39b86d4941f41ba86a06f8a1def9494ee3ac33215df9fe82ef2ee2"
+    },
+    {
+      "path": "_internal/scipy/interpolate/_rgi_cython.cp313-win_amd64.pyd",
+      "bytes": 120320,
+      "sha256": "fcf82a1c546a7f1a1498e6c97e9554d7035510bfebb045c5d5fc160e031d8a25"
+    },
+    {
+      "path": "_internal/scipy/linalg/_batched_linalg.cp313-win_amd64.pyd",
+      "bytes": 1165824,
+      "sha256": "8f60612618d9801217189edca3d89a07a73422785e4cff608e5f5f1e2a3a0f68"
+    },
+    {
+      "path": "_internal/scipy/linalg/_cythonized_array_utils.cp313-win_amd64.pyd",
+      "bytes": 199168,
+      "sha256": "ff5dacc666733ed61552d705753ffba6695862605d30983dcba03e74cffd9974"
+    },
+    {
+      "path": "_internal/scipy/linalg/_decomp_interpolative.cp313-win_amd64.pyd",
+      "bytes": 740864,
+      "sha256": "75859aa7a38e3cae7214d8c1a57e0655e819580caa24aad78b132026b9c0115e"
+    },
+    {
+      "path": "_internal/scipy/linalg/_decomp_update.cp313-win_amd64.pyd",
+      "bytes": 304128,
+      "sha256": "5b9179d071414d8de2063e473920aa4a06acbd4b24372432c134f6d23c649895"
+    },
+    {
+      "path": "_internal/scipy/linalg/_fblas.cp313-win_amd64.pyd",
+      "bytes": 739840,
+      "sha256": "732e321069eea191f28cd10cc74dd66ab78162d15e930245bbf13d52a253ad2a"
+    },
+    {
+      "path": "_internal/scipy/linalg/_flapack.cp313-win_amd64.pyd",
+      "bytes": 2301952,
+      "sha256": "1f958d6bdb64156aeb3927144b8a7c98de5e34a080944e326f410eaddda0890a"
+    },
+    {
+      "path": "_internal/scipy/linalg/_internal_matfuncs.cp313-win_amd64.pyd",
+      "bytes": 172032,
+      "sha256": "ceb1ff22d068586d34e82fa0a713394457aec312d8bd013051bdc8b6987b91fa"
+    },
+    {
+      "path": "_internal/scipy/linalg/_linalg_pythran.cp313-win_amd64.pyd",
+      "bytes": 1038336,
+      "sha256": "f3d075489facb09de13362444a78a768e2ff431dcf6b19fa20acd7cc3cac1fba"
+    },
+    {
+      "path": "_internal/scipy/linalg/_matfuncs_sqrtm_triu.cp313-win_amd64.pyd",
+      "bytes": 107520,
+      "sha256": "a54b811205653229b1d4b91972b734aeb48a6e63b224a7927975e5a3060d408e"
+    },
+    {
+      "path": "_internal/scipy/linalg/_solve_toeplitz.cp313-win_amd64.pyd",
+      "bytes": 123392,
+      "sha256": "50b177e19094986c48086c9afc9be1b7ebb3a97ea25d32d99c8038b26071421a"
+    },
+    {
+      "path": "_internal/scipy/linalg/cython_blas.cp313-win_amd64.pyd",
+      "bytes": 127488,
+      "sha256": "d5631221e7a8bd0efaa1976329c799ea51e26c3769e95199f29e26a0f78da3bc"
+    },
+    {
+      "path": "_internal/scipy/linalg/cython_lapack.cp313-win_amd64.pyd",
+      "bytes": 203264,
+      "sha256": "4a908257c4af7fd2c2382aeb07ea577cceaadcc442aab14b161e8eb3a40d6e24"
+    },
+    {
+      "path": "_internal/scipy/ndimage/_nd_image.cp313-win_amd64.pyd",
+      "bytes": 196608,
+      "sha256": "6e08479ba26603611b7033e561a4569dd3a072b86c6bb6a8c802b9f2098c293e"
+    },
+    {
+      "path": "_internal/scipy/ndimage/_ni_label.cp313-win_amd64.pyd",
+      "bytes": 209920,
+      "sha256": "f7dcb9219e6736ed8024103aaeb75e5254005ed526c9a9dac5b8c4d24f0c6d90"
+    },
+    {
+      "path": "_internal/scipy/ndimage/_rank_filter_1d.cp313-win_amd64.pyd",
+      "bytes": 128000,
+      "sha256": "7ecf065302d894f39a7ef10768ab85ec1f3b6b3b248b1035bb8bbf1d66993cd5"
+    },
+    {
+      "path": "_internal/scipy/optimize/_bglu_dense.cp313-win_amd64.pyd",
+      "bytes": 173568,
+      "sha256": "d5ef1611943e016d82bc0471167e5c1fd8892412c0116949c502a3aeb60880f0"
+    },
+    {
+      "path": "_internal/scipy/optimize/_direct.cp313-win_amd64.pyd",
+      "bytes": 70656,
+      "sha256": "29c297b7561a0310de2d181b3b43cef7591e64b9927b10f71edeae3985f7e8b8"
+    },
+    {
+      "path": "_internal/scipy/optimize/_group_columns.cp313-win_amd64.pyd",
+      "bytes": 1007616,
+      "sha256": "2b10b1d6ea30ebdb551cb926c78c9df9c8537ee548837005eef62ae3a1e75e73"
+    },
+    {
+      "path": "_internal/scipy/optimize/_highspy/_core.cp313-win_amd64.pyd",
+      "bytes": 6709760,
+      "sha256": "d8f24c56b5aa30e35ac3c26642ad95b18be4dd9d615a3ed4a917963d3c33254e"
+    },
+    {
+      "path": "_internal/scipy/optimize/_highspy/_highs_options.cp313-win_amd64.pyd",
+      "bytes": 543232,
+      "sha256": "5c63fadfec89dc4a780482b8b4847f74fcf9b9557036084f2d1ea73ab90ee869"
+    },
+    {
+      "path": "_internal/scipy/optimize/_lbfgsb.cp313-win_amd64.pyd",
+      "bytes": 49664,
+      "sha256": "a4036e36e8cf303d7692aeccee62e1553c572142849573c6a82920dfe516217b"
+    },
+    {
+      "path": "_internal/scipy/optimize/_lsap.cp313-win_amd64.pyd",
+      "bytes": 190976,
+      "sha256": "71c7941fea35d6a4242de3d9f60a6428a537ff7d9f7cf72f1d59fb3a9998e8c3"
+    },
+    {
+      "path": "_internal/scipy/optimize/_lsq/givens_elimination.cp313-win_amd64.pyd",
+      "bytes": 69632,
+      "sha256": "8e2454f9e8705a372d37642b559acea864953f654a50197cdeb1b1e6ed4cccf0"
+    },
+    {
+      "path": "_internal/scipy/optimize/_minpack.cp313-win_amd64.pyd",
+      "bytes": 125952,
+      "sha256": "88e73b42af5b4d5c66b6bf421214064eb519796830c25ac991d0306dd98c843c"
+    },
+    {
+      "path": "_internal/scipy/optimize/_moduleTNC.cp313-win_amd64.pyd",
+      "bytes": 147968,
+      "sha256": "641195f4d9152f4baf6d1b6c109caed4d678c6529d3c6ede75ef9a4396d90895"
+    },
+    {
+      "path": "_internal/scipy/optimize/_pava_pybind.cp313-win_amd64.pyd",
+      "bytes": 324096,
+      "sha256": "677d93fab3a2ac624884407d50d564195a8f638dd805ebfaa941194f13a028a6"
+    },
+    {
+      "path": "_internal/scipy/optimize/_slsqplib.cp313-win_amd64.pyd",
+      "bytes": 48640,
+      "sha256": "8d5b0b97f7ea04d25f5334783611ad7d2dfb47151ccb6b4566d4e1d69e96c379"
+    },
+    {
+      "path": "_internal/scipy/optimize/_trlib/_trlib.cp313-win_amd64.pyd",
+      "bytes": 206336,
+      "sha256": "0b0542bee5b9672888a0e3c75a314cba7e9d856d9e255759512b4c5bb9f51478"
+    },
+    {
+      "path": "_internal/scipy/optimize/_zeros.cp313-win_amd64.pyd",
+      "bytes": 23040,
+      "sha256": "b08433d082281078a0faee497498ded46f025a9bd15240e51ea50465db8484a7"
+    },
+    {
+      "path": "_internal/scipy/sparse/_csparsetools.cp313-win_amd64.pyd",
+      "bytes": 406016,
+      "sha256": "20404bbaed6e4128002041a9d8ec6f9ee45e8a03b1b5e403047ace87579f3bf3"
+    },
+    {
+      "path": "_internal/scipy/sparse/_sparsetools.cp313-win_amd64.pyd",
+      "bytes": 4239360,
+      "sha256": "3f149545ce30a20dcd1732029338571d09338a1df6a13a0a19fc84308eef2c64"
+    },
+    {
+      "path": "_internal/scipy/sparse/csgraph/_flow.cp313-win_amd64.pyd",
+      "bytes": 184320,
+      "sha256": "cf98ba97cf7b113eb723b53d0bef71b0aa84a32d7c69686758c1f4f7b10a0883"
+    },
+    {
+      "path": "_internal/scipy/sparse/csgraph/_matching.cp313-win_amd64.pyd",
+      "bytes": 182272,
+      "sha256": "8987cf9112ec9b3beaea783258090a4b8e2f3dbff514aefc1e8473e6fbe2b7b5"
+    },
+    {
+      "path": "_internal/scipy/sparse/csgraph/_min_spanning_tree.cp313-win_amd64.pyd",
+      "bytes": 103424,
+      "sha256": "3d9feb018ab1211c8943fd33d21545dc229ee689f03a6dd40d3dc96c719b9950"
+    },
+    {
+      "path": "_internal/scipy/sparse/csgraph/_reordering.cp313-win_amd64.pyd",
+      "bytes": 151552,
+      "sha256": "69d7a1194ddc5fb454a3591826406869d8f2bd81abe7e344bc486b1d43a0b9cd"
+    },
+    {
+      "path": "_internal/scipy/sparse/csgraph/_shortest_path.cp313-win_amd64.pyd",
+      "bytes": 655360,
+      "sha256": "a626e9845e3a46684018ed7c7eebe485349e325ef340c5624661e6abfc2e7093"
+    },
+    {
+      "path": "_internal/scipy/sparse/csgraph/_tools.cp313-win_amd64.pyd",
+      "bytes": 158720,
+      "sha256": "e6290e2825aeb09919045a53bb309d609aa4a67f0c8b7cb222f5db6b060a8222"
+    },
+    {
+      "path": "_internal/scipy/sparse/csgraph/_traversal.cp313-win_amd64.pyd",
+      "bytes": 503808,
+      "sha256": "6254933b0577bc1800e1171f5460c5be41d016b89b4d93e7423ba8d42d82edf6"
+    },
+    {
+      "path": "_internal/scipy/sparse/linalg/_dsolve/_superlu.cp313-win_amd64.pyd",
+      "bytes": 425984,
+      "sha256": "34ca7acae8ad0fc0d0f2a43689e98b4f54caaedea592fc7ef15fb50c46640f74"
+    },
+    {
+      "path": "_internal/scipy/sparse/linalg/_eigen/arpack/_arpacklib.cp313-win_amd64.pyd",
+      "bytes": 223232,
+      "sha256": "ba4a520391fb369ca61e23f9bea5a904b2de3be5720d3658d59d05db719d0639"
+    },
+    {
+      "path": "_internal/scipy/sparse/linalg/_propack.cp313-win_amd64.pyd",
+      "bytes": 166912,
+      "sha256": "1ca685173d2b3653e946502c9061b91decc285be4ded5f624f60943f1225fd2d"
+    },
+    {
+      "path": "_internal/scipy/spatial/_ckdtree.cp313-win_amd64.pyd",
+      "bytes": 863232,
+      "sha256": "02eb0468e1dc75069eada1c6ff6e2fd9c564172491603968666803c13658b88b"
+    },
+    {
+      "path": "_internal/scipy/spatial/_distance_pybind.cp313-win_amd64.pyd",
+      "bytes": 1479168,
+      "sha256": "18050d3a0b6e928ed5950926e8af2959fad045d3aa29b22ea70139030edd8ca7"
+    },
+    {
+      "path": "_internal/scipy/spatial/_distance_wrap.cp313-win_amd64.pyd",
+      "bytes": 128512,
+      "sha256": "6eca394eb1469deedfbe6d738523e7b09748cdcd5358fba977350e65479ee35b"
+    },
+    {
+      "path": "_internal/scipy/spatial/_hausdorff.cp313-win_amd64.pyd",
+      "bytes": 92672,
+      "sha256": "68ff63bf07fe842b53be00ee579d8a16ffbcee96800057bd5f37890f3e86e66d"
+    },
+    {
+      "path": "_internal/scipy/spatial/_qhull.cp313-win_amd64.pyd",
+      "bytes": 870400,
+      "sha256": "0f20275dfdac5e4c3a0dd73723d4e2ccb016565d53373bc6222af1be315cf315"
+    },
+    {
+      "path": "_internal/scipy/spatial/_voronoi.cp313-win_amd64.pyd",
+      "bytes": 87040,
+      "sha256": "e984bc656b16bd34cd7c7ae4e6ab056cecae1dc4851828bd1a162f887db8b2b9"
+    },
+    {
+      "path": "_internal/scipy/spatial/transform/_rigid_transform_cy.cp313-win_amd64.pyd",
+      "bytes": 237568,
+      "sha256": "635fb9a2db9a2fab3d5d3269133006b9138d0073d34999c080dd7d69e7a9f4cc"
+    },
+    {
+      "path": "_internal/scipy/spatial/transform/_rotation_cy.cp313-win_amd64.pyd",
+      "bytes": 524800,
+      "sha256": "6eb4f1d45637a97007e8b1371f79960a83c0fbc8a278c9685d6d71561df98724"
+    },
+    {
+      "path": "_internal/scipy/special/_comb.cp313-win_amd64.pyd",
+      "bytes": 48128,
+      "sha256": "f050f763b5bd85368a87fc695a6ad60053e81cc766eb0e598be62957ab8e2f6e"
+    },
+    {
+      "path": "_internal/scipy/special/_ellip_harm_2.cp313-win_amd64.pyd",
+      "bytes": 131072,
+      "sha256": "eaa4835b70ef3bf7d7e03849e4168245ba6b09a1e4ad5f53d800f80ecf076e80"
+    },
+    {
+      "path": "_internal/scipy/special/_gufuncs.cp313-win_amd64.pyd",
+      "bytes": 937984,
+      "sha256": "a365b43c8f618479e4f981f078acb4b406e2e144a1d7afe1656dfe6997eae977"
+    },
+    {
+      "path": "_internal/scipy/special/_specfun.cp313-win_amd64.pyd",
+      "bytes": 311296,
+      "sha256": "3d527f044b4a1f977868f674215d0ea8de62a5341231879584a19f6aa4edc41b"
+    },
+    {
+      "path": "_internal/scipy/special/_special_ufuncs.cp313-win_amd64.pyd",
+      "bytes": 1630720,
+      "sha256": "f27a946e0c6c69c6d520bf40eb79b8946f45df6b455390d46ca83433330d6398"
+    },
+    {
+      "path": "_internal/scipy/special/_ufuncs.cp313-win_amd64.pyd",
+      "bytes": 1434112,
+      "sha256": "db6a864aeab955e7fe9f4e440e720532c0496b0df80d8ea176f459db0c069fa3"
+    },
+    {
+      "path": "_internal/scipy/special/_ufuncs_cxx.cp313-win_amd64.pyd",
+      "bytes": 2673664,
+      "sha256": "33cca140582085a7bc42f91f7f78a8d330574ac6121304423a2a64bb458eba12"
+    },
+    {
+      "path": "_internal/scipy/special/cython_special.cp313-win_amd64.pyd",
+      "bytes": 2272256,
+      "sha256": "a1f836b3c9bee536d8afba14fa153d4016068fb12fab8ed94ea01eedc86ba3a9"
+    },
+    {
+      "path": "_internal/scipy/stats/_ansari_swilk_statistics.cp313-win_amd64.pyd",
+      "bytes": 105472,
+      "sha256": "ba9aeedfa03c8e1b9693c499d392fbce17e575bf9e01648fc0022777a100a026"
+    },
+    {
+      "path": "_internal/scipy/stats/_biasedurn.cp313-win_amd64.pyd",
+      "bytes": 375296,
+      "sha256": "2b83ef5a68088052964289e13b6165061f2fa26619e71c9c8154c0c503cb2178"
+    },
+    {
+      "path": "_internal/scipy/stats/_levy_stable/levyst.cp313-win_amd64.pyd",
+      "bytes": 45568,
+      "sha256": "6b7429e40d9ff7c376d475d2c992f900f01dc633ecb060a2d8191e02f1dbff82"
+    },
+    {
+      "path": "_internal/scipy/stats/_qmc_cy.cp313-win_amd64.pyd",
+      "bytes": 1070080,
+      "sha256": "d80cf4c22f6bcc70ed2cb9dde8b4fd4db8eaa3a296e302ec22eb77828bf23b54"
+    },
+    {
+      "path": "_internal/scipy/stats/_qmvnt_cy.cp313-win_amd64.pyd",
+      "bytes": 127488,
+      "sha256": "7f42e0b1241c1c7d0d1864a113f4059a6ec9df599ba6e33e84096b845083b7a1"
+    },
+    {
+      "path": "_internal/scipy/stats/_rcont/rcont.cp313-win_amd64.pyd",
+      "bytes": 109056,
+      "sha256": "16b42841226fbc1741020e0c0557cf413aaf82e6e326214fdec0d54c724978a3"
+    },
+    {
+      "path": "_internal/scipy/stats/_sobol.cp313-win_amd64.pyd",
+      "bytes": 166400,
+      "sha256": "270afb71a6d02023d4e8b52e5cc690a9f8d2d634f4a2da8e1f1e23545faa9885"
+    },
+    {
+      "path": "_internal/scipy/stats/_stats.cp313-win_amd64.pyd",
+      "bytes": 452096,
+      "sha256": "22da3777d99641e79448773bd38ef4754dd4a344f1f9d0f0d6325cd02c3156de"
+    },
+    {
+      "path": "_internal/scipy/stats/_stats_pythran.cp313-win_amd64.pyd",
+      "bytes": 1044992,
+      "sha256": "a9a884b347b1c726968e4689d3460e03ca0603aa096744095d7d6b62661ae238"
+    },
+    {
+      "path": "_internal/scipy.libs/libscipy_openblas-197ee2fc9b4d071f7e048078cac74115.dll",
+      "bytes": 20262912,
+      "sha256": "197ee2fc9b4d071f7e048078cac741151a6585d871061cf5f88c0c73e31963a5"
+    },
+    {
+      "path": "_internal/select.pyd",
+      "bytes": 33112,
+      "sha256": "d1e486de9653640be7c3a9bed04aa716b29ea76a69e1de758dd9fa708f2c9d38"
+    },
+    {
+      "path": "_internal/setuptools/_vendor/jaraco/text/Lorem ipsum.txt",
+      "bytes": 1335,
+      "sha256": "37fedcffbf73c4eb9f058f47677cb33203a436ff9390e4d38a8e01c9dad28e0b"
+    },
+    {
+      "path": "_internal/shiboken6/MSVCP140.dll",
+      "bytes": 549176,
+      "sha256": "fd4a8c046fa3fea9ca6132f50cf8a56cf1e783b2d3093ba5c85fa063bc6b3845"
+    },
+    {
+      "path": "_internal/shiboken6/Shiboken.pyd",
+      "bytes": 33592,
+      "sha256": "2f6f3a694f675b1dafdae26903191613c02866ab48e02591ae34ca1a3b1284f1"
+    },
+    {
+      "path": "_internal/shiboken6/shiboken6.abi3.dll",
+      "bytes": 394040,
+      "sha256": "de3c6b2ed5f75c9ac0de4a6844b653b3b9d09263ce68c2b5fc25a96c5c3e8469"
+    },
+    {
+      "path": "_internal/shiboken6/VCRUNTIME140.dll",
+      "bytes": 116024,
+      "sha256": "de617641d82eac15595d2e39394163ac33e49bb032cf2c2ea0044ed39d3675e9"
+    },
+    {
+      "path": "_internal/shiboken6/VCRUNTIME140_1.dll",
+      "bytes": 41272,
+      "sha256": "fa577d54bd10a91e52472da784a619da6cf241af45f0a0c48b27e91fa0fe6104"
+    },
+    {
+      "path": "_internal/unicodedata.pyd",
+      "bytes": 712024,
+      "sha256": "e7d0375a7064b1c8916cca7cabf7e3df559fc8463dfdf831f403e95c79499121"
+    },
+    {
+      "path": "_internal/VCRUNTIME140.dll",
+      "bytes": 120400,
+      "sha256": "052ad6a20d375957e82aa6a3c441ea548d89be0981516ca7eb306e063d5027f4"
+    },
+    {
+      "path": "_internal/VCRUNTIME140_1.dll",
+      "bytes": 49776,
+      "sha256": "6a99bc0128e0c7d6cbbf615fcc26909565e17d4ca3451b97f8987f9c6acbc6c8"
+    },
+    {
+      "path": "_internal/winrt/__pyinstaller/__init__.py",
+      "bytes": 336,
+      "sha256": "ae65d497b081111b8aea23f07ff848ae933aee224c18a76cfae825f57079c5bf"
+    },
+    {
+      "path": "_internal/winrt/__pyinstaller/hook-winrt.py",
+      "bytes": 3201,
+      "sha256": "c08b2a9398972e020ede4b58aa6a0485dded6ad0f438363fc1c33745b0eb2e3d"
+    },
+    {
+      "path": "_internal/winrt/_winrt.cp313-win_amd64.pyd",
+      "bytes": 566784,
+      "sha256": "9d26a821fb990d0d20768e3bc17a7b3275b36db0e1b8cf5c614942070c6fa0b3"
+    },
+    {
+      "path": "_internal/winrt/_winrt.pyi",
+      "bytes": 6444,
+      "sha256": "de5156eb12074eb48f523629ec22c8271eefbc2b8d78788de9125af2092a4b6d"
+    },
+    {
+      "path": "_internal/winrt/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt/runtime/__init__.py",
+      "bytes": 648,
+      "sha256": "5c3c2814108a2565561d80c4421eade4484e91defbe938479651fdddb516b8aa"
+    },
+    {
+      "path": "_internal/winrt/runtime/_internals.py",
+      "bytes": 21035,
+      "sha256": "d31a5fb22c5c44258cfa829acb257de4e9323d101e2480cb74c987522736138c"
+    },
+    {
+      "path": "_internal/winrt/runtime/interop.py",
+      "bytes": 658,
+      "sha256": "f75cc32af3823c9cd25a0f05b4161c75731306ad7a90e4ef66a6446057a6b580"
+    },
+    {
+      "path": "_internal/winrt/runtime/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt/system/__init__.py",
+      "bytes": 5103,
+      "sha256": "b339a0202998d3206dcd461cfef6169cc28abd0bc35d8a9051d9b5b9ffcef12b"
+    },
+    {
+      "path": "_internal/winrt/system/hresult.py",
+      "bytes": 1579,
+      "sha256": "27f08a987b6a4cbe0916ff894e97524c031e1c7026fd48c53cd279ba58195f11"
+    },
+    {
+      "path": "_internal/winrt/system/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/__init__.py",
+      "bytes": 2221,
+      "sha256": "4665aae6976f56585822582bf795b6eac3d39aa86727f17bd971247ccb6c1fe2"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/__init__.pyi",
+      "bytes": 55825,
+      "sha256": "019d3030eb42613ec81ef7ea80a6f748d937ad11b7402107f0995b1b545299b4"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/_table.pywinrt",
+      "bytes": 63440,
+      "sha256": "85993ef32da52f4297846548b4143f847715f64ced2d3d261e2f330b3dda0977"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/advertisement/__init__.py",
+      "bytes": 1301,
+      "sha256": "d72655620b1ad1dc913882cd567493caaf8e82656a5ce0599a411f139ed52b30"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/advertisement/__init__.pyi",
+      "bytes": 33111,
+      "sha256": "15de0fc88d1451add8f51891e51fd48c63b7cddc650184ae3004f7bfb9454aa3"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/advertisement/_table.pywinrt",
+      "bytes": 46400,
+      "sha256": "db9df18df0943eb6fe22659554dc199dbcf887b93544c6a51a9aa8c95fc3a536"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/advertisement/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/genericattributeprofile/__init__.py",
+      "bytes": 4225,
+      "sha256": "a625c2bcad8a4e2bcdd212ada3999857b8e00cde86262ba419a1a301364ea3c4"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/genericattributeprofile/__init__.pyi",
+      "bytes": 115398,
+      "sha256": "f30292744a36a78379963ec02fe8fae14be67f2496e9d8f840c17ca9a5eeba00"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/genericattributeprofile/_table.pywinrt",
+      "bytes": 114200,
+      "sha256": "887bd709c7a01e1e44af9475fba16a47bcb6890ef8e0b53e399f73407b93769f"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/genericattributeprofile/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/bluetooth/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/enumeration/__init__.py",
+      "bytes": 3731,
+      "sha256": "ce6847f936d1eee2685aa5722069786ec9bd60e3f4c5de3be903dcf5d9c1d53e"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/enumeration/__init__.pyi",
+      "bytes": 59819,
+      "sha256": "eab492a28b3d6316fd0b2ea6e9784c2aa8fad3445d5b8376ae58ecfbabee16f2"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/enumeration/_table.pywinrt",
+      "bytes": 64312,
+      "sha256": "e668e7ff1578cf321bb302ae112376fa35f3489e250410f2bf82f9dc809ea5e2"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/enumeration/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/radios/__init__.py",
+      "bytes": 267,
+      "sha256": "5cebd9a99e77c52ae13e6039aafee6adbdc29ff98eab0e0dd1e7b2779c1c8d88"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/radios/__init__.pyi",
+      "bytes": 3098,
+      "sha256": "750cfd1abf2a0ffbcb734815303691ba555e753ff4c325b9e62149e255d60065"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/radios/_table.pywinrt",
+      "bytes": 10440,
+      "sha256": "11fffac6d7d1dfa0c5e870d30fc10a202e1e8fb501296645e1aab93a327079fa"
+    },
+    {
+      "path": "_internal/winrt/windows/devices/radios/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt/windows/foundation/__init__.py",
+      "bytes": 2284,
+      "sha256": "d723a4e727a8a4217abbe9aebeba94362bb78bf35ad349745042d329e36cb464"
+    },
+    {
+      "path": "_internal/winrt/windows/foundation/__init__.pyi",
+      "bytes": 35616,
+      "sha256": "1406cdeb5ef29d1144633eb58bd81ede7a6bec25d87af2a560d0ca7e72b575fc"
+    },
+    {
+      "path": "_internal/winrt/windows/foundation/_table.pywinrt",
+      "bytes": 35528,
+      "sha256": "1aae20cfa1c78f2807a95f07b79bfd55f997303dd4fc3aa82c451b6067ac1490"
+    },
+    {
+      "path": "_internal/winrt/windows/foundation/collections/__init__.py",
+      "bytes": 1447,
+      "sha256": "f88265405aa5dc37cf6b5bab11971997347e09c0b9e9f084034971e5cd797c3c"
+    },
+    {
+      "path": "_internal/winrt/windows/foundation/collections/__init__.pyi",
+      "bytes": 18259,
+      "sha256": "fd6083dfdb83d2523b548d1e0383df1196334a6e7349b313250b9b6257b1170f"
+    },
+    {
+      "path": "_internal/winrt/windows/foundation/collections/_table.pywinrt",
+      "bytes": 23752,
+      "sha256": "ff01c25369e88027bc428189630ab4118fb483a7fa8d1a8c0738ab81c0b9145e"
+    },
+    {
+      "path": "_internal/winrt/windows/foundation/collections/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt/windows/foundation/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt/windows/storage/streams/__init__.py",
+      "bytes": 1947,
+      "sha256": "050c64b87cf55fb520f864c2db6a3066673ca0be88dff6467ddf3f2ba5f4aec6"
+    },
+    {
+      "path": "_internal/winrt/windows/storage/streams/__init__.pyi",
+      "bytes": 56731,
+      "sha256": "4c06faa35070cc6342964e0574da1246ec6f13a624fb21553458c88b975f5d33"
+    },
+    {
+      "path": "_internal/winrt/windows/storage/streams/_table.pywinrt",
+      "bytes": 43152,
+      "sha256": "eb54b99218a82f7ae418989375a8d5f222a4f668a97c8650e0c0c8f578f7b984"
+    },
+    {
+      "path": "_internal/winrt/windows/storage/streams/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "_internal/winrt_runtime-4.1.0.dist-info/entry_points.txt",
+      "bytes": 62,
+      "sha256": "f6af176dde7ec6f6135307359bb75dc3b967d250556319c68e607ca2dfee0967"
+    },
+    {
+      "path": "_internal/winrt_runtime-4.1.0.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/winrt_runtime-4.1.0.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "_internal/winrt_runtime-4.1.0.dist-info/METADATA",
+      "bytes": 1963,
+      "sha256": "4483c6c417fb9f5d32b4cdc3210d77157d12282973075bfc6aca8cbd2b5ec241"
+    },
+    {
+      "path": "_internal/winrt_runtime-4.1.0.dist-info/RECORD",
+      "bytes": 1995,
+      "sha256": "42ba568da88245180e6f45d1e73c02cf4fdd68957c5006156f78c04f687b00ec"
+    },
+    {
+      "path": "_internal/winrt_runtime-4.1.0.dist-info/top_level.txt",
+      "bytes": 6,
+      "sha256": "073c106f875946dd0dc425e2d740118d6b28c7b02c9ad7ff957af0fca47e0ff1"
+    },
+    {
+      "path": "_internal/winrt_runtime-4.1.0.dist-info/WHEEL",
+      "bytes": 101,
+      "sha256": "7cec89588e4de8fe223cbf7f768042de57f42f867e85c2248cd5798a531296a6"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth-4!10.0.28000.2957.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth-4!10.0.28000.2957.dist-info/METADATA",
+      "bytes": 2566,
+      "sha256": "4ee3319229868e8fe6cf5cf8da5157c6749fd6bd09f7f2f01f58a67166be0777"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth-4!10.0.28000.2957.dist-info/RECORD",
+      "bytes": 1051,
+      "sha256": "c0698123e8af699fd348e25fcc1ee39f2cf71e397fb81a804c5b6f147693578f"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth-4!10.0.28000.2957.dist-info/WHEEL",
+      "bytes": 87,
+      "sha256": "5b77e4a649bbfb07fdbc123967eeecd1e5a478cfaca6eefc23c35e6fdf037848"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth_advertisement-4!10.0.28000.2957.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth_advertisement-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth_advertisement-4!10.0.28000.2957.dist-info/METADATA",
+      "bytes": 2279,
+      "sha256": "8007a4bdd7d7dfddf35efd25007ca815f246c17b2359e87b6d9bca9102d2c70b"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth_advertisement-4!10.0.28000.2957.dist-info/RECORD",
+      "bytes": 1191,
+      "sha256": "ab1595b321d6e0294a3cd08718dd713c427101ca391dd86646867e8b758bbbc9"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth_advertisement-4!10.0.28000.2957.dist-info/WHEEL",
+      "bytes": 87,
+      "sha256": "5b77e4a649bbfb07fdbc123967eeecd1e5a478cfaca6eefc23c35e6fdf037848"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth_genericattributeprofile-4!10.0.28000.2957.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth_genericattributeprofile-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth_genericattributeprofile-4!10.0.28000.2957.dist-info/METADATA",
+      "bytes": 2428,
+      "sha256": "427885b96323b12834a5166d7cc579c3939a94f35e59874b7a198b2929c3817a"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth_genericattributeprofile-4!10.0.28000.2957.dist-info/RECORD",
+      "bytes": 1293,
+      "sha256": "9c6cd24ea25b95f174b61be09281d0b36b31b7ff92b4d7cb04e87b160ec41f6c"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_bluetooth_genericattributeprofile-4!10.0.28000.2957.dist-info/WHEEL",
+      "bytes": 87,
+      "sha256": "5b77e4a649bbfb07fdbc123967eeecd1e5a478cfaca6eefc23c35e6fdf037848"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_enumeration-4!10.0.28000.2957.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_enumeration-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_enumeration-4!10.0.28000.2957.dist-info/METADATA",
+      "bytes": 2458,
+      "sha256": "7986255ac351f67ee980b9b2f7db290e94ce6017e3a128b5fe165f2ad62eb7c9"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_enumeration-4!10.0.28000.2957.dist-info/RECORD",
+      "bytes": 1071,
+      "sha256": "1c48097b3f185717afdd5c602762573602c0ffef4d1f174fc2a1d4c00892b18f"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_enumeration-4!10.0.28000.2957.dist-info/WHEEL",
+      "bytes": 87,
+      "sha256": "5b77e4a649bbfb07fdbc123967eeecd1e5a478cfaca6eefc23c35e6fdf037848"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_radios-4!10.0.28000.2957.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_radios-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_radios-4!10.0.28000.2957.dist-info/METADATA",
+      "bytes": 1941,
+      "sha256": "339384a7181227b8f12dd3d6ea61ebd12affeec7eed5bbda9ddb82a15586f9cf"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_radios-4!10.0.28000.2957.dist-info/RECORD",
+      "bytes": 1019,
+      "sha256": "d4585ade6f3a971b29fab3db97081820253a937bfc243060e44436d5a348ef29"
+    },
+    {
+      "path": "_internal/winrt_windows_devices_radios-4!10.0.28000.2957.dist-info/WHEEL",
+      "bytes": 87,
+      "sha256": "5b77e4a649bbfb07fdbc123967eeecd1e5a478cfaca6eefc23c35e6fdf037848"
+    },
+    {
+      "path": "_internal/winrt_windows_foundation-4!10.0.28000.2957.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/winrt_windows_foundation-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "_internal/winrt_windows_foundation-4!10.0.28000.2957.dist-info/METADATA",
+      "bytes": 1778,
+      "sha256": "8884e6fd29623550457f05ad639532649f2bb5b609d2e52406f4d49819b4c9f4"
+    },
+    {
+      "path": "_internal/winrt_windows_foundation-4!10.0.28000.2957.dist-info/RECORD",
+      "bytes": 981,
+      "sha256": "f4b39bfa0fe474323af94385d55406ccfa93d4d8a9e6a4b21fe387844b4ffc55"
+    },
+    {
+      "path": "_internal/winrt_windows_foundation-4!10.0.28000.2957.dist-info/WHEEL",
+      "bytes": 87,
+      "sha256": "5b77e4a649bbfb07fdbc123967eeecd1e5a478cfaca6eefc23c35e6fdf037848"
+    },
+    {
+      "path": "_internal/winrt_windows_foundation_collections-4!10.0.28000.2957.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/winrt_windows_foundation_collections-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "_internal/winrt_windows_foundation_collections-4!10.0.28000.2957.dist-info/METADATA",
+      "bytes": 1826,
+      "sha256": "0aab70596648292626bebf3ace27f32aa650588c058c6e4f9ca00319b1cb52c6"
+    },
+    {
+      "path": "_internal/winrt_windows_foundation_collections-4!10.0.28000.2957.dist-info/RECORD",
+      "bytes": 1101,
+      "sha256": "8ded277b12db3360afed55360a0dde4ba3cd0afd2eee5e2f442b2866d026428d"
+    },
+    {
+      "path": "_internal/winrt_windows_foundation_collections-4!10.0.28000.2957.dist-info/WHEEL",
+      "bytes": 87,
+      "sha256": "5b77e4a649bbfb07fdbc123967eeecd1e5a478cfaca6eefc23c35e6fdf037848"
+    },
+    {
+      "path": "_internal/winrt_windows_storage_streams-4!10.0.28000.2957.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "_internal/winrt_windows_storage_streams-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "_internal/winrt_windows_storage_streams-4!10.0.28000.2957.dist-info/METADATA",
+      "bytes": 2100,
+      "sha256": "b0fdb4b353e7c421fd2644cfe917000c97dd922b677525e7371ff5c0ff3caa69"
+    },
+    {
+      "path": "_internal/winrt_windows_storage_streams-4!10.0.28000.2957.dist-info/RECORD",
+      "bytes": 1031,
+      "sha256": "a6eed70830213cecd289c1335f08fb1d3c9bd6eb01b34395908c57c331984c9e"
+    },
+    {
+      "path": "_internal/winrt_windows_storage_streams-4!10.0.28000.2957.dist-info/WHEEL",
+      "bytes": 87,
+      "sha256": "5b77e4a649bbfb07fdbc123967eeecd1e5a478cfaca6eefc23c35e6fdf037848"
+    },
+    {
+      "path": "docs/ARCHITECTURE_EN.v1.md",
+      "bytes": 3921,
+      "sha256": "aa45a7b2a79aa4dae4c4e51ee30fa89d2ba85f2dfd3a5c920f8a8dced24e23c1"
+    },
+    {
+      "path": "docs/AUTO_SURVEY_TASKS.v2.md",
+      "bytes": 1839,
+      "sha256": "047151f69154b04eaef3def605eaac19c12202f3ecf3a3061e5947be0e1575a8"
+    },
+    {
+      "path": "docs/BLE_LAPTOP_TDOA_OUTPUT.v1.th.md",
+      "bytes": 11897,
+      "sha256": "3a736d1eb86bca009a334a6a5342948d0f922a1ec2b9b850347f94ae9cb5c262"
+    },
+    {
+      "path": "docs/BLE_PILOT_PROTOCOL.v3.md",
+      "bytes": 5920,
+      "sha256": "53ee07cac54d6a7a8aa8a1e6a183c90d6632c2754b0330b7f71fc951521428f1"
+    },
+    {
+      "path": "docs/BLE_RECOVERY_2_8_3.th.md",
+      "bytes": 5351,
+      "sha256": "ebfd66850817de6f00a94ce58228ed0a130ced1afb6fd5d65b1b8746dd474980"
+    },
+    {
+      "path": "docs/BUILD_EN.v1.md",
+      "bytes": 4096,
+      "sha256": "703335b857de2bec2d32acae6e1408d6cfa5186fdc44c9c95b0ad64b078af891"
+    },
+    {
+      "path": "docs/BUILD_EN.v2.md",
+      "bytes": 4116,
+      "sha256": "76c748801763c3dee3e6aacc8689e7b3c1f8685d2ca168ec52ef91d5d8d92d4d"
+    },
+    {
+      "path": "docs/coordinate-v16/alignment-preview.png",
+      "bytes": 74010,
+      "sha256": "58c1cc81a4046a66329c5e1ba47ff088c22295a0efcab34bcf19e406073dfb76"
+    },
+    {
+      "path": "docs/coordinate-v16/floor-survey.png",
+      "bytes": 123678,
+      "sha256": "662e1ef088013c7c65e820cd6dce3079374980761fce89f5ee8201c5e4d0dab1"
+    },
+    {
+      "path": "docs/coordinate-v16/verification.json",
+      "bytes": 702,
+      "sha256": "b849d82fd887ae6406ef711886afe3ffc6c543ac0808b66f9858b2d8d350aff4"
+    },
+    {
+      "path": "docs/COORDINATE_ALIGNMENT_2_8_0.md",
+      "bytes": 3119,
+      "sha256": "9cc6e40f21eb75f946cd357b9a84d9bda8244889e5dbeb3e8e61d209dd9ab8c5"
+    },
+    {
+      "path": "docs/design-v15/DESIGN.md",
+      "bytes": 3632,
+      "sha256": "33f09a64fef32f56da6a5344834ac2907c832cd5fba822f079a941f2fcd2a76e"
+    },
+    {
+      "path": "docs/design-v15/implemented-laptop-thai.png",
+      "bytes": 104443,
+      "sha256": "73513a4bbb70e964eb4ded70558ab80b3a2c161247f4e6d2979e79422a69ab25"
+    },
+    {
+      "path": "docs/design-v15/implemented-live.png",
+      "bytes": 101593,
+      "sha256": "45cc9a046abcb5b1965ad2ee883dd31f31b437155f19747ae416a5250b7e861d"
+    },
+    {
+      "path": "docs/design-v15/implemented-survey.png",
+      "bytes": 110036,
+      "sha256": "f838a1da3a9eb508ddc3b073ee0b9ded4404102820b8500b36901486b68ac2fb"
+    },
+    {
+      "path": "docs/design-v15/survey-concept.png",
+      "bytes": 1427650,
+      "sha256": "1a585f8e255eaa7fa170f2ce1041003e9e9a5b6ba3d986c5343a9632543dfa17"
+    },
+    {
+      "path": "docs/design-v15/VERIFICATION.json",
+      "bytes": 557,
+      "sha256": "4346b866528225847b5e839a7d26c1d4136e6c90ec710b0987658dfd07fbdac3"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v1.en.md",
+      "bytes": 2298,
+      "sha256": "ba1fc1f94e378a5fb1cb5f39eadcdd892dc96f739a329e03be96270cc8e5a1b1"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v1.th.md",
+      "bytes": 7055,
+      "sha256": "e66f26a88b3e49f8fe4eb18bb5571aaf7a3c29e63b6d7bd6a62ea590e65fa7ae"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v10.en.md",
+      "bytes": 4027,
+      "sha256": "0454753771eae7aaec21629d4bc8a4cf283b62367c8ae169954185278b93b7d0"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v10.th.md",
+      "bytes": 7363,
+      "sha256": "863fcce22c4f8ce0de7fce2018eabd9945983e21ed5f7a782633001e8236f88a"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v2.en.md",
+      "bytes": 2350,
+      "sha256": "dcd150e3649ee33eda58d81d6f739b040b201875edd45b846d8f56638b13e521"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v2.th.md",
+      "bytes": 5958,
+      "sha256": "ccfdd0c50b5b01443a51aaaf72bfdab313edb4adeb25e3b4933f229e9bd9af7f"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v3.en.md",
+      "bytes": 1922,
+      "sha256": "4f701f608b13416ba927e2f2bdb7206453dd1666db7147cd5b2f8c3ac58bd6a0"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v3.th.md",
+      "bytes": 5329,
+      "sha256": "27f11caa035b021bf65497929d858d0efed191f7ecf4628f6ca6f57abf92e064"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v4.en.md",
+      "bytes": 7309,
+      "sha256": "6b5430003f789406d8e2339afdffa00f113bc760e75e020424dbf9e3b7ea2320"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v4.th.md",
+      "bytes": 12413,
+      "sha256": "b559968468e224c12184f5b44bdcfa27520739e7d109808869dc527826a12980"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v5.en.md",
+      "bytes": 8205,
+      "sha256": "6c88524703e189874fea7264236c4c60983f0636c732e50c6e0a829a3625924d"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v5.th.md",
+      "bytes": 14288,
+      "sha256": "5c52f696898503d62506a35eb4a94dd4c43eab1cb5d2a6de105f9a9c86e030ba"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v6.en.md",
+      "bytes": 10475,
+      "sha256": "924f1ed0c8832e70549af6801c32d1b535f301fbd4561183c656fd08063b8a4c"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v6.th.md",
+      "bytes": 18480,
+      "sha256": "b7c24288b5df67f7e5bf82ceb9ad3b6ea7b98d89e533e1f407353d0760c4b7f6"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v7.en.md",
+      "bytes": 11330,
+      "sha256": "c9fdabe5c5392fe46758200b89048d41e540d3f39bbf615777fb0d8547079418"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v7.th.md",
+      "bytes": 20094,
+      "sha256": "d98868ef41809aace98b137c7f5e1736932b26d0030e866b99ffe4c4b507546e"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v8.en.md",
+      "bytes": 4176,
+      "sha256": "7559adcf80a9fdb3d4ad75d48d438716cc3dd60d48aae7789a8e98e09198c3a1"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v8.th.md",
+      "bytes": 8191,
+      "sha256": "706a409520bb80971e28fd50dd26349840459e5d6cdaa8776df9f8e4bb4b1954"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v9.en.md",
+      "bytes": 4439,
+      "sha256": "5e86171687554cea731058c1d5cc11a8d75c1e0df2a00eb755f319e2bd5e5e1c"
+    },
+    {
+      "path": "docs/INTEGRATED_STANDALONE_GUIDE.v9.th.md",
+      "bytes": 8669,
+      "sha256": "16148d7bd6b0543f555f45d1127ede7619c217106806a8fd9870c844c539c59a"
+    },
+    {
+      "path": "docs/RELEASE_2_6_0.md",
+      "bytes": 3709,
+      "sha256": "2cafb3d36f41cd4305d430e2b1dc636877f97a9e24916eb45916e804b2809ac3"
+    },
+    {
+      "path": "docs/RF_TAG_LINK_CHECK.v1.md",
+      "bytes": 2124,
+      "sha256": "db2a9d3f671d0da1ea0ed4cd2f345fe8fbcaaa38c768d7819933a16729fe5f96"
+    },
+    {
+      "path": "docs/RTLS_CONNECTION_2_5_0.th.md",
+      "bytes": 5805,
+      "sha256": "585a8e7a5a610bd3ddcfd0fba7b99c4bafccfe15d9a321679f1b6760a6c7bfc1"
+    },
+    {
+      "path": "docs/RTLS_CONNECTION_2_6_0.th.md",
+      "bytes": 1666,
+      "sha256": "d89f52d10e444969e8290535e9f3df53c4c3a1979805cfd994718be8fd453db6"
+    },
+    {
+      "path": "docs/RTLS_CONNECTION_2_7_0.th.md",
+      "bytes": 1666,
+      "sha256": "bce3cd505e36c96af67d180181bd7ba9c3766ac4dd0b9317e0de429f4144b2bf"
+    },
+    {
+      "path": "docs/RTLS_CONNECTION_2_8_0.th.md",
+      "bytes": 1154,
+      "sha256": "19c77b2fc718caf018adb861ffd3bfa5a7e171bf1ce8ede2e67e6eebab099b0c"
+    },
+    {
+      "path": "docs/STANDALONE_BLE_PREVIEW.v2.th.md",
+      "bytes": 10544,
+      "sha256": "c6ae8f1e85c5b5cbab7011bc92c2a3b71e8fc6bdfa9433ad645bada3ae3b08e1"
+    },
+    {
+      "path": "docs/STANDALONE_BLE_PREVIEW.v3.th.md",
+      "bytes": 10939,
+      "sha256": "87a3a71dc481ed2c66808db6368780c7f0bf997a4bbbd9c4bdd27880f5557863"
+    },
+    {
+      "path": "docs/USER_GUIDE_EN.v1.md",
+      "bytes": 7409,
+      "sha256": "899c06fe54754f9da98765e24164b9267d5488d985a6de025c61dada07f92ca8"
+    },
+    {
+      "path": "docs/USER_GUIDE_EN.v2.md",
+      "bytes": 8515,
+      "sha256": "ebb12054c4b59896abee42611a9f90eb2ad1c601d043a86b49f13016e2081ec6"
+    },
+    {
+      "path": "docs/USER_GUIDE_TH.v1.md",
+      "bytes": 12999,
+      "sha256": "9a85f2c18a265397db9f76fca1c6ada91b2e682425f9e84c5f3e68ee1784216f"
+    },
+    {
+      "path": "docs/USER_GUIDE_TH.v2.md",
+      "bytes": 15045,
+      "sha256": "5661826a6c728288f5ca2030c52adf3ba7a6c88f2203c54c25c6dc33972da607"
+    },
+    {
+      "path": "docs/VALIDATION_EN.v1.md",
+      "bytes": 2175,
+      "sha256": "b8e495f7f24b920f260003423bc7e2c6c63970958da1b724fd9680bc49c456b3"
+    },
+    {
+      "path": "docs/VALIDATION_EN.v2.md",
+      "bytes": 1942,
+      "sha256": "9076a33fffbe771f8c0db8a795fee90bcb53b3c9cf0f4c9d3382482e2fc9a28e"
+    },
+    {
+      "path": "firmware/releases/20261007T121821591451Z/bundle-manifest.json",
+      "bytes": 3481,
+      "sha256": "447a1d9d00e254f7f613a29e54b3155dfdb587020f3b3fed658c72347a2ab97f"
+    },
+    {
+      "path": "firmware/releases/20261007T121821591451Z/master/murata_2bp_master_v1.bin",
+      "bytes": 387324,
+      "sha256": "f7bf65558e0ad804be60ff34a5400fea40c2a65a1ef9e0f7a9f859d638567e27"
+    },
+    {
+      "path": "firmware/releases/20261007T121821591451Z/slave/murata_2bp_slave_v1.bin",
+      "bytes": 387288,
+      "sha256": "6f3a75dd628c44b240c6f795a58b48ce867c66b98550e038ed491651f61d3fe4"
+    },
+    {
+      "path": "firmware/releases/20261007T121821591451Z/tag_battery/murata_2dk_tag_battery_v1.bin",
+      "bytes": 293492,
+      "sha256": "b614baf289d9f3503f9555ddaf375c5a557ac516c0bb7bb8294feb5b9c82c0f2"
+    },
+    {
+      "path": "firmware/releases/20261007T121821591451Z/tag_setup/murata_2dk_tag_setup_v1.bin",
+      "bytes": 292644,
+      "sha256": "0777426cbf055054e2a9ea3e5bd66ca4a026f9e1e5a65c26aa902ce8b14d7c3e"
+    },
+    {
+      "path": "firmware/releases/_experimental/20261104T021426300357Z/bundle-manifest.json",
+      "bytes": 6722,
+      "sha256": "2cf54ef3d17c036996f7125f74e0f26350cf6ae07c98f21d9b82fc09ed6aa0f4"
+    },
+    {
+      "path": "firmware/releases/_experimental/20261104T021426300357Z/master/murata_2bp_master_auto_survey_v1.bin",
+      "bytes": 537508,
+      "sha256": "2d66f33d5ebf97c94312b0d1108f869ef307d3312274b2ab6324fa9432c34193"
+    },
+    {
+      "path": "firmware/releases/_experimental/20261104T021426300357Z/slave2/murata_2bp_slave2_auto_survey_v1.bin",
+      "bytes": 537476,
+      "sha256": "5954fafee5c20471cdd56897165bbe5cc4773c4911d1d13438398ec18eaaf015"
+    },
+    {
+      "path": "firmware/releases/_experimental/20261104T021426300357Z/slave3/murata_2bp_slave3_auto_survey_v1.bin",
+      "bytes": 537476,
+      "sha256": "50810efc2335fe74eb55e16f1f47f583a064cda0f2f9edf9099127c4f23477ea"
+    },
+    {
+      "path": "firmware/releases/_experimental/20261104T021426300357Z/slave4/murata_2bp_slave4_auto_survey_v1.bin",
+      "bytes": 537476,
+      "sha256": "d9c222eda91024bf4c45b55f44f9d5b9d58744a47ab5e90490f5a8a6bff91e21"
+    },
+    {
+      "path": "firmware/releases/_experimental/20261104T021426300357Z/tag_battery/murata_2dk_tag_battery_ble_pilot_v1.bin",
+      "bytes": 289968,
+      "sha256": "779c676319a87ff775bd05fbc653c972753f72640b5d359c89070e2c2944868b"
+    },
+    {
+      "path": "firmware/releases/_experimental/20261104T021426300357Z/tag_ble_calibration/murata_2dk_tag_ble_calibration_auto_survey_v1.bin",
+      "bytes": 447160,
+      "sha256": "78b038e539d9e9f3bcc9d20af0ddc6def8a4b2b310cf921b8ed15c22c4de3d51"
+    },
+    {
+      "path": "firmware/releases/_experimental/20261104T021426300357Z/tag_setup/murata_2dk_tag_setup_auto_survey_v1.bin",
+      "bytes": 283900,
+      "sha256": "f912a77da6a47f0e80c3358e5299c2eefadf7017f9f7756c917ab69dcce7e0e2"
+    },
+    {
+      "path": "licenses/CPython-LICENSE.txt",
+      "bytes": 33861,
+      "sha256": "62bec384df47b0328307db41455ff6ea2559e5546b394ac69148561b21703120"
+    },
+    {
+      "path": "licenses/firmware/CMSIS-LICENSE.txt",
+      "bytes": 11558,
+      "sha256": "e03ba41d7fab20700769fe4118bab50d800cb74f990353a05d2f5fff1c228363"
+    },
+    {
+      "path": "licenses/firmware/FreeRTOS-LICENSE.md",
+      "bytes": 1036,
+      "sha256": "508a77d2e7b51d98adeed32648ad124b7b30241a8e70b2e72c99f92d8e5874d1"
+    },
+    {
+      "path": "licenses/firmware/GNU-Arm-runtime-licenses.txt",
+      "bytes": 553129,
+      "sha256": "9b47c67a1d2421fa5724e2bfd9e2be03f399ade15273b6e38a8f2a3c9bfe31d6"
+    },
+    {
+      "path": "licenses/NXP-QN9090/SW-Content-Register.txt",
+      "bytes": 9851,
+      "sha256": "2ba985f68d2dbefb057e8ceb81fc2b13bc0cbdf99603d448934eb143879ab660"
+    },
+    {
+      "path": "licenses/NXP-SR040/EULA.pdf",
+      "bytes": 216216,
+      "sha256": "1109d6d39fd2bbca5ab15210cc9e1bdf3ee60461b7d61e2f3aa6a86b1128016f"
+    },
+    {
+      "path": "licenses/NXP-SR040/SCR.txt",
+      "bytes": 3312,
+      "sha256": "045dcc0c8f1f990a4600875162f8ecaf1ee34b797646fc4c5b8bc17c5592b1d4"
+    },
+    {
+      "path": "licenses/NXP-SR150/EULA.pdf",
+      "bytes": 224965,
+      "sha256": "e170d1781bb9706aae156465147055e3010557f7006f41fa91664302f21ccefd"
+    },
+    {
+      "path": "licenses/NXP-SR150/SCR.txt",
+      "bytes": 5906,
+      "sha256": "198666a8fb2712eb1b8812b94d1f748840422efa18af594d35a76006be45771a"
+    },
+    {
+      "path": "licenses/python-packages/altgraph-0.17.5.dist-info/LICENSE",
+      "bytes": 1002,
+      "sha256": "6c194d6db0c64d45535d10c95142b9b0cda7b7dcc7f1ddee302b3d536f3dbe46"
+    },
+    {
+      "path": "licenses/python-packages/bidict-0.24.1.dist-info/licenses/LICENSE",
+      "bytes": 16784,
+      "sha256": "099b9dcb04485b32cf93aba82b303e099bcf98ab2476fae716d22c930fd6b915"
+    },
+    {
+      "path": "licenses/python-packages/bleak-3.0.1.dist-info/licenses/LICENSE",
+      "bytes": 1072,
+      "sha256": "c4029a2b63b3824ab68be841f414addbdde20cb79cdbe272fa80c0b2abe65374"
+    },
+    {
+      "path": "licenses/python-packages/certifi-2026.10.23.dist-info/licenses/LICENSE",
+      "bytes": 989,
+      "sha256": "e93716da6b9c0d5a4a1df60fe695b370f0695603d21f6f83f053e42cfc10caf7"
+    },
+    {
+      "path": "licenses/python-packages/charset_normalizer-3.5.2.dist-info/licenses/LICENSE",
+      "bytes": 1092,
+      "sha256": "18577485d3704f1a479ded8e573c0976cfed315fd2fd17983fa988da4c2f70d1"
+    },
+    {
+      "path": "licenses/python-packages/colorama-0.4.6.dist-info/licenses/LICENSE.txt",
+      "bytes": 1491,
+      "sha256": "cac35c02686e5d04a5a7140bfb3b36e73aed496656e891102e428886d7930318"
+    },
+    {
+      "path": "licenses/python-packages/h11-0.16.0.dist-info/licenses/LICENSE.txt",
+      "bytes": 1124,
+      "sha256": "37db5bb85926db28a427a25867f10b1232003aea1be69ccb851138adb8e6f361"
+    },
+    {
+      "path": "licenses/python-packages/idna-3.20.dist-info/licenses/LICENSE.md",
+      "bytes": 1541,
+      "sha256": "1a9a4f0e3d479a27240ddd59a9137a66ab4a0f9dfdc8ca6188cc0bfd85187f04"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/LICENSE.txt",
+      "bytes": 45831,
+      "sha256": "a804dff0ead9fadc5293456410bcbfc32bf024be9c4513459663fb7b442d2341"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "bytes": 1039,
+      "sha256": "d544761558b510866c21f7e8a2d5716fca76e0b98117e3b6b86314db7244d150"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "bytes": 704,
+      "sha256": "aea41976c720f91bd19725c16916a1ace40eb1ea42620d340e587a5de4bbcea0"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "bytes": 21155,
+      "sha256": "d208152e2777ffd0126eacc1bd21c0320d69e4e6b622d21a2a12a47e8ef73763"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "bytes": 1441,
+      "sha256": "b0fd592d4ead563148e3977e7b589169d46a5ef2ff133c755a81af880a3fc919"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "bytes": 1542,
+      "sha256": "a732977853530066790c42817087f4829b518dd98d340c916acbfd227e39d3cb"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "bytes": 1573,
+      "sha256": "585483905b13d4b42f800c55ba99e89d6e2e33ccd5f503e201c07531d148ff41"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "bytes": 1523,
+      "sha256": "8db000e158c162e7249787852d8c69764706502ccee725c06641b31c1e95c8af"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "bytes": 2314,
+      "sha256": "19060ef465e1797d682ee0fc3081bd25ab1395e995e43d25c9d13c95d9a3cd6b"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/ma/LICENSE",
+      "bytes": 1616,
+      "sha256": "d78dbb208b80d92b4d333e41a4baae50d12444f46e53199fa7726a91de6e2da7"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/random/LICENSE.md",
+      "bytes": 3582,
+      "sha256": "b4bc2f4fa1c95778f1ed3dd8f14706bece399475b978f9f34b5d3cd72521b48a"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+      "bytes": 2805,
+      "sha256": "cf5619f25b112d5ce7c896efffc8e610bcb345dfadcc19f2c1460aa48fff2c9e"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "bytes": 2986,
+      "sha256": "92c10699884321f1c2947fe2a70ab23b0fbf1507f756d89dd08f38c61fc3d4fa"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "bytes": 1176,
+      "sha256": "41190663b77bee5302386495a07b7eabfbfa571aa0ae2f11da6764162062fc4f"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+      "bytes": 1540,
+      "sha256": "322ac46d870c8aeead6c53adcccc839296fb3c8e456eae155081297daf7f8013"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "bytes": 1253,
+      "sha256": "28cad82ce1379dc529df30da78ec012d7d0d1d576b03ddcb93388aee53659f59"
+    },
+    {
+      "path": "licenses/python-packages/numpy-2.5.3.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "bytes": 340,
+      "sha256": "454ec7350e478e037061850b67395753b425b1cb0a34bbc26290b020bf89d763"
+    },
+    {
+      "path": "licenses/python-packages/packaging-26.3.dist-info/licenses/LICENSE",
+      "bytes": 197,
+      "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+    },
+    {
+      "path": "licenses/python-packages/packaging-26.3.dist-info/licenses/LICENSE.APACHE",
+      "bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": "licenses/python-packages/packaging-26.3.dist-info/licenses/LICENSE.BSD",
+      "bytes": 1344,
+      "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+    },
+    {
+      "path": "licenses/python-packages/pefile-2024.8.26.dist-info/LICENSE",
+      "bytes": 1083,
+      "sha256": "b44409c067c6da52bfb54bb6624fb11a7b52157c3a13ae1400232f8196e86ad3"
+    },
+    {
+      "path": "licenses/python-packages/pyinstaller-6.22.3.dist-info/licenses/COPYING.txt",
+      "bytes": 32604,
+      "sha256": "0598064c7d2718e38d7914a7d08343b2fa008e3bea9ebba2aa7a6ffa5900dd64"
+    },
+    {
+      "path": "licenses/python-packages/pyinstaller_hooks_contrib-2026.9.dist-info/licenses/LICENSE",
+      "bytes": 27666,
+      "sha256": "91d0baaff00773038e72c0a1fc9d5d2d38706b7a2b9c04f34296608f931b9cd0"
+    },
+    {
+      "path": "licenses/python-packages/pyside6-6.11.2.dist-info/licenses/LicenseRef-Qt-Commercial.txt",
+      "bytes": 470,
+      "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+    },
+    {
+      "path": "licenses/python-packages/pyside6_addons-6.11.2.dist-info/licenses/LicenseRef-Qt-Commercial.txt",
+      "bytes": 470,
+      "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+    },
+    {
+      "path": "licenses/python-packages/pyside6_essentials-6.11.2.dist-info/licenses/LicenseRef-Qt-Commercial.txt",
+      "bytes": 470,
+      "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+    },
+    {
+      "path": "licenses/python-packages/python_engineio-4.15.1.dist-info/licenses/LICENSE",
+      "bytes": 1082,
+      "sha256": "c9e97d3dbc1fbbcdb4f7808b282cd646db887aff4f5313fe6bbe8d4c31405a9c"
+    },
+    {
+      "path": "licenses/python-packages/python_socketio-5.17.0.dist-info/licenses/LICENSE",
+      "bytes": 1082,
+      "sha256": "c9e97d3dbc1fbbcdb4f7808b282cd646db887aff4f5313fe6bbe8d4c31405a9c"
+    },
+    {
+      "path": "licenses/python-packages/pywin32_ctypes-0.2.3.dist-info/LICENSE.txt",
+      "bytes": 1644,
+      "sha256": "dfa83b3e2709adfcdb838d9ad55823ca674abb780e60563d9dd9544ccbf785e9"
+    },
+    {
+      "path": "licenses/python-packages/requests-2.34.2.dist-info/licenses/LICENSE",
+      "bytes": 10142,
+      "sha256": "09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b"
+    },
+    {
+      "path": "licenses/python-packages/requests-2.34.2.dist-info/licenses/NOTICE",
+      "bytes": 38,
+      "sha256": "f5110972dedad2b4e9d314518daf3b7d72d6e02e499acd802181de6f74571dcc"
+    },
+    {
+      "path": "licenses/python-packages/scipy-1.18.1.dist-info/LICENSE.txt",
+      "bytes": 45881,
+      "sha256": "f0f5c56b298ec9795df1199edc328a987242716d14a1bde6813112e22dc15f99"
+    },
+    {
+      "path": "licenses/python-packages/shiboken6-6.11.2.dist-info/licenses/LicenseRef-Qt-Commercial.txt",
+      "bytes": 470,
+      "sha256": "4f54763ac0fe2abd8f7f8d8fe370a94a08ebf84786aa0b91045bd6628deb08a3"
+    },
+    {
+      "path": "licenses/python-packages/simple_websocket-1.1.0.dist-info/LICENSE",
+      "bytes": 1072,
+      "sha256": "4b8abadcc5e3dd29c71905b84952945699f0a7ba41e6af99eaba46faabe95bb7"
+    },
+    {
+      "path": "licenses/python-packages/typing_extensions-4.16.0.dist-info/licenses/LICENSE",
+      "bytes": 13936,
+      "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf"
+    },
+    {
+      "path": "licenses/python-packages/urllib3-2.8.0.dist-info/licenses/LICENSE.txt",
+      "bytes": 1093,
+      "sha256": "130e3a64d5fdd5d096a752694634a7d9df284469de86e5732100268041e3d686"
+    },
+    {
+      "path": "licenses/python-packages/websocket_client-1.9.2.dist-info/licenses/LICENSE",
+      "bytes": 11339,
+      "sha256": "14214b7bbb6952ada76afea206b6c393f2563d4e7678be0232e1a1d216716679"
+    },
+    {
+      "path": "licenses/python-packages/winrt_runtime-4.1.0.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "licenses/python-packages/winrt_windows_devices_bluetooth-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "licenses/python-packages/winrt_windows_devices_bluetooth_advertisement-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "licenses/python-packages/winrt_windows_devices_bluetooth_genericattributeprofile-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "licenses/python-packages/winrt_windows_devices_enumeration-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "licenses/python-packages/winrt_windows_devices_radios-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "licenses/python-packages/winrt_windows_foundation-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "licenses/python-packages/winrt_windows_foundation_collections-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "licenses/python-packages/winrt_windows_storage_streams-4!10.0.28000.2957.dist-info/licenses/LICENSE",
+      "bytes": 1225,
+      "sha256": "77254a38ca8f5747e299bccc86a377ce983a2ba6363a57a4c2b75f8994c19bc3"
+    },
+    {
+      "path": "licenses/python-packages/wsproto-1.3.2.dist-info/licenses/LICENSE",
+      "bytes": 1093,
+      "sha256": "c0329a8dbf3437b095f7f5cf4257d6bb855e07120cae8786586073ff7a699959"
+    },
+    {
+      "path": "licenses/Qt/GPL-2.0-only.txt",
+      "bytes": 18092,
+      "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+    },
+    {
+      "path": "licenses/Qt/GPL-3.0-only.txt",
+      "bytes": 35147,
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+    },
+    {
+      "path": "licenses/Qt/LGPL-3.0-only.txt",
+      "bytes": 7651,
+      "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+    },
+    {
+      "path": "licenses/Qt/Qt-GPL-exception-1.0.txt",
+      "bytes": 965,
+      "sha256": "40678d338ce53cd93f8b22b281a2ecbcaa3ee65ce60b25ffb0c462b0530846b2"
+    },
+    {
+      "path": "package-manifest.v1.json",
+      "bytes": 5539,
+      "sha256": "a771bd72f36f8ccdad9afc25763b5f33daf534f681f9b1d27a81187363acb70d"
+    },
+    {
+      "path": "programmer-workspace.json",
+      "bytes": 84,
+      "sha256": "1ac45b97aa13d99460a8398e3905387411fc057ffd413629dfdb5ddfb8b11a88"
+    },
+    {
+      "path": "resources/branding/logo-v1.ico",
+      "bytes": 33909,
+      "sha256": "ecc2c336055e7eeca96ef28e469c924f2499f1c87388bf62a537a8668d40319f"
+    },
+    {
+      "path": "resources/branding/logo-v1.png",
+      "bytes": 95129,
+      "sha256": "b09b6871ed49ae36b6019eb5b119793c0a37a015c54ccd326bb6ed6e9a11b27a"
+    },
+    {
+      "path": "resources/branding/logo-v1.svg",
+      "bytes": 1214,
+      "sha256": "933c1fd5441696792c7867e54c35c349361bf4b0fe2d550dd0de1991314e6dfe"
+    },
+    {
+      "path": "resources/i18n/th.v1.json",
+      "bytes": 24860,
+      "sha256": "14cde01daca5de6e854c49513ae5ab2b8c4fc46d113b49892ccf7bc6e4da7042"
+    },
+    {
+      "path": "resources/i18n/th.v10.json",
+      "bytes": 58686,
+      "sha256": "f88c19d545d8d894c78111e68029a4114fc5ef42fb3a3652130aee3b8a8c0982"
+    },
+    {
+      "path": "resources/i18n/th.v11.json",
+      "bytes": 59062,
+      "sha256": "8e81e8d59efedf32020ce98e17d92e4e167b96fb1338602c5992bbfab706ce81"
+    },
+    {
+      "path": "resources/i18n/th.v12.json",
+      "bytes": 59811,
+      "sha256": "6be3ba2cb4b4cef071316678c1c7677526a2eaed726a8e34e6c7bb3bf15e94f4"
+    },
+    {
+      "path": "resources/i18n/th.v13.json",
+      "bytes": 60354,
+      "sha256": "1529e50b330dc34ddcafffddc10513628f23550098c3dd43c9c984eb65d600d1"
+    },
+    {
+      "path": "resources/i18n/th.v14.json",
+      "bytes": 62849,
+      "sha256": "c942674b956c4cc900033960b10eda0aaeaf9d9147f9cfda0cb2dcf3e03fed56"
+    },
+    {
+      "path": "resources/i18n/th.v15.json",
+      "bytes": 62849,
+      "sha256": "c942674b956c4cc900033960b10eda0aaeaf9d9147f9cfda0cb2dcf3e03fed56"
+    },
+    {
+      "path": "resources/i18n/th.v16.json",
+      "bytes": 62849,
+      "sha256": "c942674b956c4cc900033960b10eda0aaeaf9d9147f9cfda0cb2dcf3e03fed56"
+    },
+    {
+      "path": "resources/i18n/th.v2.json",
+      "bytes": 25739,
+      "sha256": "6aba4d5c9bddfb6e61a8641cffb02aa71b1eb7aa22e46ef50279f5f1823c7d08"
+    },
+    {
+      "path": "resources/i18n/th.v3.json",
+      "bytes": 32738,
+      "sha256": "e24b275820990b5035555a98b015f65346adb26ac8d06cd8041235086b0f5531"
+    },
+    {
+      "path": "resources/i18n/th.v4.json",
+      "bytes": 33294,
+      "sha256": "62c63b6a213afee738b637c7d10554f4564e6f92ae0fcd48a75ad2bad7b239b5"
+    },
+    {
+      "path": "resources/i18n/th.v5.json",
+      "bytes": 36288,
+      "sha256": "fcc876891a3ac8f6532c346918416c5357e72dfe92046a74bc53a248cfe96134"
+    },
+    {
+      "path": "resources/i18n/th.v6.json",
+      "bytes": 53040,
+      "sha256": "21456109ba158e2f24be737ef157f58e42c86ea68070abc6ebbfeeba3ae1a5e7"
+    },
+    {
+      "path": "resources/i18n/th.v7.json",
+      "bytes": 55452,
+      "sha256": "439d00e5ea9530ee615f81e8ddb9cdb5db2781d6e961d1c1de639253509c19a4"
+    },
+    {
+      "path": "resources/i18n/th.v8.json",
+      "bytes": 57892,
+      "sha256": "cf400a06ba44929dce6dd4eb3a69d65ad169181f6e0469b96cae54cd1c8a5877"
+    },
+    {
+      "path": "resources/i18n/th.v9.json",
+      "bytes": 58686,
+      "sha256": "f88c19d545d8d894c78111e68029a4114fc5ef42fb3a3652130aee3b8a8c0982"
+    },
+    {
+      "path": "resources/ui-v1/caret-down.png",
+      "bytes": 197,
+      "sha256": "2f5562b15b8eecb924a3792471fe4a99269442ee369edc081353ab7f7700f965"
+    },
+    {
+      "path": "resources/ui-v1/caret-up.png",
+      "bytes": 242,
+      "sha256": "af8b1ad4f447744047521bfec7bae0ae6ccf6a2e3041b3d8d3073f49f8aae20f"
+    },
+    {
+      "path": "resources/ui-v1/chevron-down.png",
+      "bytes": 197,
+      "sha256": "2f5562b15b8eecb924a3792471fe4a99269442ee369edc081353ab7f7700f965"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 2682,
+      "sha256": "d2688b0b59f0a04e74b4de887fce30b95362182324d69de085b5f2efcde68d31"
+    },
+    {
+      "path": "tools/dk6/DK6Programmer.exe",
+      "bytes": 874117,
+      "sha256": "02f42043b41397f6e0172e59face8af5f81b8c35410da42effc1d0a5bd92a516"
+    },
+    {
+      "path": "tools/dk6/ftd2xx.dll",
+      "bytes": 219496,
+      "sha256": "abf80af6316c5f475cd60bec680c07b4e11d1f2163f36dc51bccee3f4f2e31a4"
+    },
+    {
+      "path": "tools/dk6/libgcc_s_dw2-1.dll",
+      "bytes": 112142,
+      "sha256": "b4cc93cf4d7c2906c1929c079cd98ef00c7a33832e132ac57adde71857082e36"
+    },
+    {
+      "path": "tools/dk6/pdcurses.dll",
+      "bytes": 118784,
+      "sha256": "fc055fdeca9ff28cb17264350ff1ba393e08d0f300f2c08eb320d8248b0761e2"
+    },
+    {
+      "path": "tools/dk6/programmer.dll",
+      "bytes": 493865,
+      "sha256": "ecc9e446e2c628698c37724ffacd6ecdca3eb16273207b3774ccf0b398900b48"
+    },
+    {
+      "path": "UWB_Board_Programmer_2_8_3.exe",
+      "bytes": 11537236,
+      "sha256": "627808b4732c7272622ee3742a43ad77d1b3ea26124a835007cd9f5c0e8c3503"
+    }
+  ]
+}
